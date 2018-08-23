@@ -1,0 +1,919 @@
+﻿Log file open, 08/16/18 19:06:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: game
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(2018871018) SRandInit(2018871018).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.850476
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.16-23.06.59:666][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.16-23.06.59:666][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.16-23.06.59:824][  0]LogInit: Computer: LAPTOP-GEG23UK1
+[2018.08.16-23.06.59:824][  0]LogInit: User: katsa
+[2018.08.16-23.06.59:825][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.08.16-23.06.59:825][  0]LogInit: High frequency timer resolution =1.754518 MHz
+[2018.08.16-23.06.59:825][  0]LogMemory: Memory total: Physical=7.4GB (8GB approx)
+[2018.08.16-23.06.59:825][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.16-23.06.59:825][  0]LogMemory: Process Physical Memory: 272.02 MB used, 272.02 MB peak
+[2018.08.16-23.06.59:825][  0]LogMemory: Process Virtual Memory: 269.22 MB used, 269.22 MB peak
+[2018.08.16-23.06.59:825][  0]LogMemory: Physical Memory: 3004.41 MB used,  4623.82 MB free, 7628.23 MB total
+[2018.08.16-23.06.59:825][  0]LogMemory: Virtual Memory: 4775.75 MB used,  4623.82 MB free, 134217728.00 MB total
+[2018.08.16-23.07.06:324][  0]LogInit: Using OS detected language (en-US).
+[2018.08.16-23.07.06:324][  0]LogInit: Using OS detected locale (en-US).
+[2018.08.16-23.07.06:674][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.08.16-23.07.08:413][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.16-23.07.12:561][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.16-23.07.12:594][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R6 Graphics' (Feature Level 11_0)
+[2018.08.16-23.07.12:594][  0]LogD3D11RHI:       492/0/3814 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.08.16-23.07.12:603][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.16-23.07.12:603][  0]LogD3D11RHI:       0/0/3814 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.16-23.07.12:603][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.16-23.07.12:619][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.16-23.07.12:620][  0]LogD3D11RHI:     GPU DeviceId: 0x9874 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.16-23.07.12:620][  0]LogWindows: EnumDisplayDevices:
+[2018.08.16-23.07.12:620][  0]LogWindows:    0. 'AMD Radeon(TM) R6 Graphics' (P:1 D:1)
+[2018.08.16-23.07.12:621][  0]LogWindows:    1. 'AMD Radeon(TM) R6 Graphics' (P:0 D:0)
+[2018.08.16-23.07.12:621][  0]LogWindows:    2. 'AMD Radeon(TM) R6 Graphics' (P:0 D:0)
+[2018.08.16-23.07.12:621][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.08.16-23.07.12:622][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R6 Graphics
+[2018.08.16-23.07.12:622][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.08.16-23.07.12:622][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.08.16-23.07.12:622][  0]LogRHI: Texture pool is 344 MB (70% of 492 MB)
+[2018.08.16-23.07.12:747][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.16-23.07.12:770][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2018.08.16-23.07.12:775][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Intermediate/Shaders/WorkingDirectory/3548/).
+[2018.08.16-23.07.12:775][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/katsa/AppData/Local/Temp/UnrealShaderWorkingDir/BB20630E4FA13A17CAC931B235E68972/'.
+[2018.08.16-23.07.12:775][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.16-23.07.20:754][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.16-23.07.21:063][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.16-23.07.21:381][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.16-23.07.21:693][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.16-23.07.22:020][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.16-23.07.22:352][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.16-23.07.22:674][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.16-23.07.22:975][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.16-23.07.23:267][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.16-23.07.23:597][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.16-23.07.23:916][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.16-23.07.24:210][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.16-23.07.24:528][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.16-23.07.24:836][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.16-23.07.25:366][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.16-23.07.25:366][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.16-23.07.25:704][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.16-23.07.25:958][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.16-23.07.26:530][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.16-23.07.26:707][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.16-23.07.27:001][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.16-23.07.27:285][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.16-23.07.27:594][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.16-23.07.27:951][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.16-23.07.27:951][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.16-23.07.35:353][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.16-23.07.36:613][  0]LogDerivedDataCache: Loaded boot cache 1.19s 78MB C:/Users/katsa/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.08.16-23.07.36:613][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/katsa/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.08.16-23.07.36:613][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.16-23.07.36:613][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.16-23.07.36:613][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.16-23.07.36:613][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.16-23.07.36:679][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.16-23.07.36:731][  0]LogDerivedDataCache: Using Local data cache path C:/Users/katsa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.16-23.07.36:751][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.16-23.07.36:752][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.16-23.07.36:810][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.16-23.07.36:810][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.16-23.07.42:653][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.16-23.07.46:588][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.16-23.07.46:884][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.16-23.07.46:884][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.16-23.07.46:884][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.16-23.07.46:884][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.16-23.07.46:884][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.16-23.07.47:185][  0]LogNetVersion: game , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1359646243)
+[2018.08.16-23.07.48:979][  0]LogAssetRegistry: FAssetRegistry took 0.0331 seconds to start up
+[2018.08.16-23.08.00:603][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.326999 seconds
+[2018.08.16-23.08.00:613][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.08.16-23.08.00:613][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.08.16-23.08.00:613][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.16-23.08.00:928][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.08.16-23.08.48:706][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.16-23.08.48:975][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.16-23.08.55:207][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.08.16-23.08.58:107][  0]SourceControl: Source control is disabled
+[2018.08.16-23.08.58:107][  0]SourceControl: Source control is disabled
+[2018.08.16-23.08.58:502][  0]SourceControl: Source control is disabled
+[2018.08.16-23.08.58:905][  0]SourceControl: Source control is disabled
+[2018.08.16-23.09.04:605][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.16-23.09.06:172][  0]LogOcInput: OculusInput pre-init called
+[2018.08.16-23.09.07:983][  0]LogEngine: Initializing Engine...
+[2018.08.16-23.09.07:989][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.16-23.09.09:927][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.16-23.09.09:927][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.16-23.09.10:681][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.16-23.09.10:770][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.16-23.09.12:004][  0]LogInit: FAudioDevice initialized.
+[2018.08.16-23.09.12:351][  0]LogDerivedDataCache: Saved boot cache 0.35s 78MB C:/Users/katsa/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.08.16-23.09.12:393][  0]LogInit: Texture streaming: Enabled
+[2018.08.16-23.09.13:315][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.16-23.09.13:974][  0]LogInit: Transaction tracking system initialized
+[2018.08.16-23.09.15:959][  0]BlueprintLog: New page: Editor Load
+[2018.08.16-23.09.22:661][  0]LocalizationService: Localization service is disabled
+[2018.08.16-23.09.28:714][  0]LogConsoleResponse: Display: 
+[2018.08.16-23.09.33:808][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.16-23.09.33:808][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.16-23.09.33:808][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.16-23.09.33:842][  0]LogFileCache: Scanning file cache for directory 'C:/Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/' took 0.02s
+[2018.08.16-23.09.42:266][  0]SourceControl: Source control is disabled
+[2018.08.16-23.09.42:267][  0]Cmd: MAP LOAD FILE="../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.16-23.09.42:307][  0]LightingResults: New page: Lighting Build
+[2018.08.16-23.09.42:499][  0]MapCheck: New page: Map Check
+[2018.08.16-23.09.42:499][  0]LightingResults: New page: Lighting Build
+[2018.08.16-23.09.46:224][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.16-23.09.46:287][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.16-23.09.46:329][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.16-23.09.46:505][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 175.705ms to complete.
+[2018.08.16-23.09.46:506][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 4.239
+[2018.08.16-23.09.47:117][  0]LogCollectionManager: Loaded 0 collections in 0.003865 seconds
+[2018.08.16-23.09.47:366][  0]LogFileCache: Scanning file cache for directory 'C:/Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Collections/' took 0.01s
+[2018.08.16-23.09.47:366][  0]LogFileCache: Scanning file cache for directory 'C:/Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/Developers/katsa/Collections/' took 0.01s
+[2018.08.16-23.09.47:366][  0]LogFileCache: Scanning file cache for directory 'C:/Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/Collections/' took 0.01s
+[2018.08.16-23.09.47:366][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.08.16-23.09.47:385][  0]LogContentBrowser: Native class hierarchy populated in 0.0177 seconds. Added 2363 classes and 519 folders.
+[2018.08.16-23.09.47:665][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.08.16-23.09.49:412][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.08.16-23.09.49:693][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.08.16-23.09.49:773][  0]LogSlate: Took 0.013514 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.16-23.09.49:787][  0]LogSlate: Took 0.011427 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.16-23.09.49:808][  0]LogSlate: Took 0.009716 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.16-23.09.50:326][  0]LogRenderer: Reallocating scene render targets to support 1008x504 Format 9 NumSamples 1 (Frame:1).
+[2018.08.16-23.09.51:390][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.08.16-23.09.51:391][  0]LogLoad: (Engine Initialization) Total time: 210.56 seconds
+[2018.08.16-23.09.51:391][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.16-23.09.51:391][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.08.16-23.09.51:754][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.08.16-23.09.51:827][  0]LogSlate: Took 0.020326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.16-23.09.52:415][  2]LogAssetRegistry: Asset discovery search completed in 123.4603 seconds
+[2018.08.16-23.09.52:419][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.08.16-23.09.52:420][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000482 seconds (updated 0 objects)
+[2018.08.16-23.09.52:753][  3]LogSlate: Took 0.000727 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.16-23.11.28:121][391]LogSlate: Took 0.061437 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.16-23.11.28:847][391]LogSlate: Took 0.010690 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.16-23.11.29:110][391]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 116 classes and 0 folders.
+[2018.08.16-23.11.31:556][391]LogBlueprint: Error: [Compiler BTT_RUNNER_MOVETO] The current value (0, 0, 0) of the ' Goal ' pin is invalid: 'Goal' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.08.16-23.11.31:562][391]LogBlueprint: Warning: [Compiler BTT_RUNNER_MOVETO] [0310.73] Compile of BTT_RUNNER_MOVETO failed. 1 Fatal Issue(s) 0 Warning(s) [in 8 ms] (/Game/AI/BTT_RUNNER_MOVETO.BTT_RUNNER_MOVETO)
+[2018.08.16-23.11.32:601][391]LogSlate: Took 0.053168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.16-23.21.30:292][628]LogSlate: Took 0.100911 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.16-23.51.02:613][696]LogHttp: Warning: 000001A1D68A4280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.16-23.51.02:613][696]LogHttp: Warning: 000001A1D68A4280: libcurl info message cache 0 (Connection 11 seems to be dead!)
+[2018.08.16-23.51.02:613][696]LogHttp: Warning: 000001A1D68A4280: libcurl info message cache 1 (Closing connection 11)
+[2018.08.16-23.51.02:613][696]LogHttp: Warning: 000001A1D68A4280: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.08.16-23.51.02:613][696]LogHttp: Warning: 000001A1D68A4280: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.16-23.51.02:613][696]LogHttp: Warning: 000001A1D68A4280: libcurl info message cache 4 (Closing connection 12)
+[2018.08.17-00.03.16:619][712]LogHttp: Warning: 000001A1D68A5F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-00.03.16:619][712]LogHttp: Warning: 000001A1D68A5F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-00.03.16:619][712]LogHttp: Warning: 000001A1D68A5F00: libcurl info message cache 1 (Closing connection 13)
+[2018.08.17-00.23.47:499][292]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.081
+[2018.08.17-00.23.47:882][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/SPAWNER] ([1] browsable assets)...
+[2018.08.17-00.23.47:885][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/SPAWNER]
+[2018.08.17-00.23.47:966][292]LogSavePackage: Save=20.09ms
+[2018.08.17-00.23.47:966][292]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/SPAWNER_Auto1EE75CBEB4CDA4C77C50D9687D149386D.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/AI/SPAWNER_Auto1.uasset'
+[2018.08.17-00.23.47:991][292]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/AI/SPAWNER_Auto1.uasset
+[2018.08.17-00.23.47:991][292]LogFileHelpers: Auto-saving content packages took 0.489
+[2018.08.17-00.26.39:289][511]BlueprintLog: New page: Compile RUNNER_CONTROLLER
+[2018.08.17-00.26.40:243][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/RUNNER_CONTROLLER" FILE="../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/RUNNER_CONTROLLER.uasset" SILENT=true
+[2018.08.17-00.26.40:277][542]LogSavePackage: Save=19.89ms
+[2018.08.17-00.26.40:277][542]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/RUNNER_CONTROLLERC6D907BF4596CD776C7BC5BC766AF4DA.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/RUNNER_CONTROLLER.uasset'
+[2018.08.17-00.26.40:288][542]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/RUNNER_CONTROLLER.uasset
+[2018.08.17-00.32.57:268][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.08.17-00.32.59:252][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.08.17-00.33.00:017][339]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2018.08.17-00.33.48:243][214]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.051
+[2018.08.17-00.33.48:249][214]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/AI_RUNNER] ([1] browsable assets)...
+[2018.08.17-00.33.48:275][214]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/AI_RUNNER.AI_RUNNER]
+[2018.08.17-00.33.48:275][214]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/AI_RUNNER]
+[2018.08.17-00.33.48:331][214]LogSavePackage: Save=40.79ms
+[2018.08.17-00.33.48:331][214]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/AI_RUNNER_Auto235789280459C741D3B8F1BA19AE25E65.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/AI/AI_RUNNER_Auto2.uasset'
+[2018.08.17-00.33.48:335][214]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/AI/AI_RUNNER_Auto2.uasset
+[2018.08.17-00.33.48:337][214]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/SPAWNER] ([1] browsable assets)...
+[2018.08.17-00.33.48:338][214]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/SPAWNER]
+[2018.08.17-00.33.48:427][214]LogSavePackage: Save=76.68ms
+[2018.08.17-00.33.48:427][214]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/SPAWNER_Auto21C73293D461ABFB82529ED8758C7168F.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/AI/SPAWNER_Auto2.uasset'
+[2018.08.17-00.33.48:432][214]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/AI/SPAWNER_Auto2.uasset
+[2018.08.17-00.33.48:436][214]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/RUNNER_TREE] ([1] browsable assets)...
+[2018.08.17-00.33.48:436][214]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/RUNNER_TREE]
+[2018.08.17-00.33.48:489][214]LogSavePackage: Save=13.35ms
+[2018.08.17-00.33.48:489][214]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/RUNNER_TREE_Auto23E617C30443E3D8DE1CC619EA2787C9C.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/AI/RUNNER_TREE_Auto2.uasset'
+[2018.08.17-00.33.48:495][214]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/AI/RUNNER_TREE_Auto2.uasset
+[2018.08.17-00.33.48:495][214]LogFileHelpers: Auto-saving content packages took 0.250
+[2018.08.17-00.35.38:843][ 94]LogSlate: Took 0.019151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.08.17-00.43.49:071][515]LogSavePackage: Save=571.27ms
+[2018.08.17-00.43.49:071][515]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/TopDownExampleMap_Auto3D1FC255E47C188C099D52CA57DD3F900.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto3.umap'
+[2018.08.17-00.43.49:126][515]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto3.umap
+[2018.08.17-00.43.49:132][515]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.740
+[2018.08.17-00.43.49:132][515]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.740
+[2018.08.17-00.43.49:137][515]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/RUNNER_CONTROLLER] ([1] browsable assets)...
+[2018.08.17-00.43.49:137][515]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/RUNNER_CONTROLLER]
+[2018.08.17-00.43.49:171][515]LogSavePackage: Save=19.81ms
+[2018.08.17-00.43.49:171][515]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/RUNNER_CONTROLLER_Auto383A9A99E43B3BD672B0A0AA0A0DAE081.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/AI/RUNNER_CONTROLLER_Auto3.uasset'
+[2018.08.17-00.43.49:194][515]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/AI/RUNNER_CONTROLLER_Auto3.uasset
+[2018.08.17-00.43.49:197][515]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/SPAWNER] ([1] browsable assets)...
+[2018.08.17-00.43.49:197][515]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/SPAWNER]
+[2018.08.17-00.43.49:235][515]LogSavePackage: Save=23.83ms
+[2018.08.17-00.43.49:236][515]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/SPAWNER_Auto352842F6F461255CD8C629887A3CFAACF.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/AI/SPAWNER_Auto3.uasset'
+[2018.08.17-00.43.49:241][515]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/AI/SPAWNER_Auto3.uasset
+[2018.08.17-00.43.49:241][515]LogFileHelpers: Auto-saving content packages took 0.106
+[2018.08.17-00.54.22:389][102]BlueprintLog: New page: Compile SPAWNER
+[2018.08.17-00.54.23:657][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/SPAWNER" FILE="../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/SPAWNER.uasset" SILENT=true
+[2018.08.17-00.54.23:733][138]LogSavePackage: Save=56.39ms
+[2018.08.17-00.54.23:734][138]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/SPAWNER7C68319A40CCD02237F51CBB43E85B09.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/SPAWNER.uasset'
+[2018.08.17-00.54.23:752][138]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/SPAWNER.uasset
+[2018.08.17-00.54.35:261][722]LogEditorViewport: Clicking on Actor (LMB): SPAWNER_C (SPAWNER)
+[2018.08.17-00.54.43:990][101]Cmd: TRANSACTION UNDO
+[2018.08.17-00.54.43:990][101]LogEditorTransaction: Undo Move Actors
+[2018.08.17-00.55.09:277][211]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.17-00.55.12:464][315]LogSavePackage: Save=416.38ms
+[2018.08.17-00.55.12:464][315]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/TopDownExampleMap_Auto41F54B9E64BBD4C5D7A0CBBAEADCFAD09.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto4.umap'
+[2018.08.17-00.55.12:469][315]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto4.umap
+[2018.08.17-00.55.12:474][315]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.642
+[2018.08.17-00.55.12:474][315]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.642
+[2018.08.17-00.55.19:040][562]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.17-00.55.34:447][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2018.08.17-00.55.39:356][471]LogEditorViewport: Clicking on Actor (LMB): SPAWNER_C (SPAWNER)
+[2018.08.17-00.55.40:618][524]Cmd: DELETE
+[2018.08.17-00.55.40:618][524]Cmd: ACTOR DELETE
+[2018.08.17-00.55.40:892][524]LogEditorActor: Deleted Actor: SPAWNER_C
+[2018.08.17-00.55.40:943][524]LogEditorActor: Deleted 1 Actors (0.122 secs)
+[2018.08.17-00.55.42:051][579]LogEditorViewport: Clicking on Actor (LMB): SPAWNER_C (SPAWNER2)
+[2018.08.17-00.55.42:540][597]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.17-01.05.21:980][675]LogSavePackage: Save=432.53ms
+[2018.08.17-01.05.21:980][675]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/TopDownExampleMap_Auto5C1C68E454A510E0DD78B869D7663E52A.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto5.umap'
+[2018.08.17-01.05.21:985][675]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto5.umap
+[2018.08.17-01.05.22:010][675]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.619
+[2018.08.17-01.05.22:010][675]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.619
+[2018.08.17-01.05.22:016][675]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/AI_RUNNER] ([1] browsable assets)...
+[2018.08.17-01.05.22:053][675]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/AI_RUNNER.AI_RUNNER]
+[2018.08.17-01.05.22:053][675]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/AI_RUNNER]
+[2018.08.17-01.05.22:134][675]LogSavePackage: Save=49.92ms
+[2018.08.17-01.05.22:134][675]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/AI_RUNNER_Auto5E43B18D740436617D08941BC29E30363.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/AI/AI_RUNNER_Auto5.uasset'
+[2018.08.17-01.05.22:139][675]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/AI/AI_RUNNER_Auto5.uasset
+[2018.08.17-01.05.22:139][675]LogFileHelpers: Auto-saving content packages took 0.127
+[2018.08.17-01.07.20:023][392]BlueprintLog: New page: Compile RUNNER_CONTROLLER
+[2018.08.17-01.07.21:716][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/RUNNER_CONTROLLER" FILE="../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/RUNNER_CONTROLLER.uasset" SILENT=true
+[2018.08.17-01.07.21:788][461]LogSavePackage: Save=36.83ms
+[2018.08.17-01.07.21:788][461]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/RUNNER_CONTROLLERC220A186405EDC73BC580CAE2E81EB04.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/RUNNER_CONTROLLER.uasset'
+[2018.08.17-01.07.21:798][461]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/RUNNER_CONTROLLER.uasset
+[2018.08.17-01.07.28:230][842]BlueprintLog: New page: Compile AI_RUNNER
+[2018.08.17-01.07.29:224][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_RUNNER" FILE="../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/AI_RUNNER.uasset" SILENT=true
+[2018.08.17-01.07.29:284][842]LogSavePackage: Save=46.26ms
+[2018.08.17-01.07.29:284][842]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/AI_RUNNER6BA197B44D4BAD1553656CB6D07EEA48.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/AI_RUNNER.uasset'
+[2018.08.17-01.07.29:305][842]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/AI_RUNNER.uasset
+[2018.08.17-01.07.36:340][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.08.17-01.07.37:517][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.08.17-01.07.37:930][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.08.17-01.07.38:499][238]LogEditorViewport: Clicking on Actor (LMB): AI_RUNNER_C (AI_RUNNER)
+[2018.08.17-01.07.40:274][303]Cmd: DELETE
+[2018.08.17-01.07.40:274][303]Cmd: ACTOR DELETE
+[2018.08.17-01.07.40:279][303]LogEditorActor: Deleted Actor: AI_RUNNER_C
+[2018.08.17-01.07.40:334][303]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2018.08.17-01.07.41:141][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.08.17-01.07.41:802][369]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2018.08.17-01.07.47:163][573]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.17-01.07.47:511][573]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.17-01.07.47:589][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.17-01.07.54:724][765]BlueprintLog: New page: Compile BTT_RUNNER_MOVETO
+[2018.08.17-01.07.55:458][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BTT_RUNNER_MOVETO" FILE="../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/BTT_RUNNER_MOVETO.uasset" SILENT=true
+[2018.08.17-01.07.55:554][784]LogSavePackage: Save=74.94ms
+[2018.08.17-01.07.55:554][784]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/BTT_RUNNER_MOVETO1980C97D45964DF91344939E3BEDD0EB.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/BTT_RUNNER_MOVETO.uasset'
+[2018.08.17-01.07.55:565][784]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/BTT_RUNNER_MOVETO.uasset
+[2018.08.17-01.07.58:013][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/RUNNER_TREE" FILE="../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/RUNNER_TREE.uasset" SILENT=true
+[2018.08.17-01.07.58:044][914]LogSavePackage: Save=12.40ms
+[2018.08.17-01.07.58:045][914]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/RUNNER_TREEDB95AB4B4F5027DF32ED1E9424263D0A.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/RUNNER_TREE.uasset'
+[2018.08.17-01.07.58:054][914]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/RUNNER_TREE.uasset
+[2018.08.17-01.08.01:100][ 58]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.17-01.08.01:140][ 58]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.17-01.08.01:147][ 58]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.17-01.08.01:341][ 58]PIE: New page: PIE session: TopDownExampleMap (Aug 16, 2018, 5:08:01 PM)
+[2018.08.17-01.08.01:351][ 58]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.17-01.08.01:638][ 58]LogPlayLevel: PIE: StaticDuplicateObject took: (0.287233s)
+[2018.08.17-01.08.01:655][ 58]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.17-01.08.01:680][ 58]LogPlayLevel: PIE: World Init took: (0.027458s)
+[2018.08.17-01.08.01:695][ 58]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.344468s)
+[2018.08.17-01.08.01:861][ 58]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.17-01.08.01:936][ 58]LogInit: FAudioDevice initialized.
+[2018.08.17-01.08.02:073][ 58]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.17-01.08.02:282][ 58]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2018.08.16-21.08.02
+[2018.08.17-01.08.02:329][ 58]LogWorld: Bringing up level for play took: 0.058750
+[2018.08.17-01.08.04:951][ 58]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0021 seconds. Added 11 classes and 0 folders.
+[2018.08.17-01.08.05:279][ 58]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 4.443
+[2018.08.17-01.08.05:280][ 58]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.17-01.08.08:570][193]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.17-01.08.08:802][193]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.17-01.10.52:371][226]LogEditorViewport: Clicking on Actor (LMB): SPAWNER_C (SPAWNER2)
+[2018.08.17-01.10.58:374][486]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavigationMeshBoundsVolume)
+[2018.08.17-01.11.06:780][850]Cmd: TRANSACTION UNDO
+[2018.08.17-01.11.06:780][850]LogEditorTransaction: Undo Scale Actors
+[2018.08.17-01.11.21:981][445]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.17-01.15.30:345][858]LogSavePackage: Save=418.30ms
+[2018.08.17-01.15.30:345][858]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/TopDownExampleMap_Auto612F666324DA47AB0063592AC4C3E8265.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto6.umap'
+[2018.08.17-01.15.30:349][858]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto6.umap
+[2018.08.17-01.15.30:355][858]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.534
+[2018.08.17-01.15.30:355][858]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.534
+[2018.08.17-01.15.30:360][858]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/AI_RUNNER] ([1] browsable assets)...
+[2018.08.17-01.15.30:389][858]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/AI_RUNNER.AI_RUNNER]
+[2018.08.17-01.15.30:389][858]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/AI_RUNNER]
+[2018.08.17-01.15.30:475][858]LogSavePackage: Save=68.89ms
+[2018.08.17-01.15.30:475][858]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/AI_RUNNER_Auto6903107FF4E6579C40C356690AEBD1025.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/AI/AI_RUNNER_Auto6.uasset'
+[2018.08.17-01.15.30:479][858]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/AI/AI_RUNNER_Auto6.uasset
+[2018.08.17-01.15.30:479][858]LogFileHelpers: Auto-saving content packages took 0.122
+[2018.08.17-01.17.08:127][919]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume2)
+[2018.08.17-01.17.10:732][ 20]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume2)
+[2018.08.17-01.17.11:172][ 36]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume2)
+[2018.08.17-01.17.11:695][ 55]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume2)
+[2018.08.17-01.17.12:153][ 71]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume2)
+[2018.08.17-01.17.12:575][ 86]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume2)
+[2018.08.17-01.17.14:825][172]LogEditorViewport: Clicking on Actor (LMB): SPAWNER_C (SPAWNER2)
+[2018.08.17-01.20.52:965][ 99]BlueprintLog: New page: Compile AI_RUNNER
+[2018.08.17-01.24.17:957][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/SPAWNER" FILE="../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/SPAWNER.uasset" SILENT=true
+[2018.08.17-01.24.18:112][ 52]LogSavePackage: Save=75.20ms
+[2018.08.17-01.24.18:112][ 52]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/SPAWNER62CFE12542CE3B840B83788244DF7DB3.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/SPAWNER.uasset'
+[2018.08.17-01.24.18:134][ 52]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/SPAWNER.uasset
+[2018.08.17-01.24.19:513][133]BlueprintLog: New page: Compile SPAWNER
+[2018.08.17-01.25.29:217][232]LogSavePackage: Save=435.24ms
+[2018.08.17-01.25.29:218][232]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/TopDownExampleMap_Auto7DC3C35A6461237A252298E8F24D3E26E.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto7.umap'
+[2018.08.17-01.25.29:222][232]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto7.umap
+[2018.08.17-01.25.29:227][232]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.563
+[2018.08.17-01.25.29:227][232]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.563
+[2018.08.17-01.25.29:231][232]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/AI_RUNNER] ([1] browsable assets)...
+[2018.08.17-01.25.29:268][232]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/AI_RUNNER.AI_RUNNER]
+[2018.08.17-01.25.29:268][232]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/AI_RUNNER]
+[2018.08.17-01.25.29:350][232]LogSavePackage: Save=66.11ms
+[2018.08.17-01.25.29:350][232]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/AI_RUNNER_Auto782BE31A641825123E1BC0DB10A73FD51.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/AI/AI_RUNNER_Auto7.uasset'
+[2018.08.17-01.25.29:355][232]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/AI/AI_RUNNER_Auto7.uasset
+[2018.08.17-01.25.29:356][232]LogFileHelpers: Auto-saving content packages took 0.127
+[2018.08.17-01.35.29:596][864]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.050
+[2018.08.17-01.35.29:601][864]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BTT_RUNNER_MOVETO] ([1] browsable assets)...
+[2018.08.17-01.35.29:602][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BTT_RUNNER_MOVETO]
+[2018.08.17-01.35.29:713][864]LogSavePackage: Save=90.77ms
+[2018.08.17-01.35.29:713][864]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/BTT_RUNNER_MOVETO_Auto803D6ABF4450C344D6859118ECCE3C65A.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/AI/BTT_RUNNER_MOVETO_Auto8.uasset'
+[2018.08.17-01.35.29:717][864]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/AI/BTT_RUNNER_MOVETO_Auto8.uasset
+[2018.08.17-01.35.29:718][864]LogFileHelpers: Auto-saving content packages took 0.120
+[2018.08.17-01.36.31:592][556]BlueprintLog: New page: Compile BTT_RUNNER_MOVETO
+[2018.08.17-01.36.32:443][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BTT_RUNNER_MOVETO" FILE="../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/BTT_RUNNER_MOVETO.uasset" SILENT=true
+[2018.08.17-01.36.32:486][586]LogSavePackage: Save=26.82ms
+[2018.08.17-01.36.32:486][586]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/BTT_RUNNER_MOVETO209D9DFF4D8B51A8A829D684E1EC65D5.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/BTT_RUNNER_MOVETO.uasset'
+[2018.08.17-01.36.32:498][586]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/BTT_RUNNER_MOVETO.uasset
+[2018.08.17-01.41.05:728][394]Cmd: DELETE
+[2018.08.17-01.41.05:729][394]Cmd: ACTOR DELETE
+[2018.08.17-01.41.05:735][394]LogEditorActor: Deleted Actor: SPAWNER_C
+[2018.08.17-01.41.05:792][394]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2018.08.17-01.41.15:764][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_RUNNER" FILE="../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/AI_RUNNER.uasset" SILENT=true
+[2018.08.17-01.41.15:818][790]LogSavePackage: Save=29.33ms
+[2018.08.17-01.41.15:818][790]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/AI_RUNNER1903F5474145E8A7908BAB8633CA564B.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/AI_RUNNER.uasset'
+[2018.08.17-01.41.15:829][790]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/AI_RUNNER.uasset
+[2018.08.17-01.41.19:194][929]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.17-01.41.44:685][ 56]LogEditorViewport: Clicking on Actor (LMB): SPAWNER_C (SPAWNER)
+[2018.08.17-01.46.24:037][ 14]LogSavePackage: Save=439.43ms
+[2018.08.17-01.46.24:037][ 14]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/TopDownExampleMap_Auto91CC04C844C2022375F6FDBA77C9630D0.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto9.umap'
+[2018.08.17-01.46.24:043][ 14]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto9.umap
+[2018.08.17-01.46.24:049][ 14]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.562
+[2018.08.17-01.46.24:049][ 14]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.562
+[2018.08.17-01.46.24:054][ 14]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BTT_RUNNER_MOVETO] ([1] browsable assets)...
+[2018.08.17-01.46.24:054][ 14]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BTT_RUNNER_MOVETO]
+[2018.08.17-01.46.24:149][ 14]LogSavePackage: Save=75.86ms
+[2018.08.17-01.46.24:149][ 14]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/BTT_RUNNER_MOVETO_Auto91CC0D4014C8150D74E7F4182E50110EB.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/AI/BTT_RUNNER_MOVETO_Auto9.uasset'
+[2018.08.17-01.46.24:153][ 14]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/AI/BTT_RUNNER_MOVETO_Auto9.uasset
+[2018.08.17-01.46.24:153][ 14]LogFileHelpers: Auto-saving content packages took 0.102
+[2018.08.17-01.47.16:154][ 91]BlueprintLog: New page: Compile BTT_RUNNER_MOVETO
+[2018.08.17-01.47.16:973][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BTT_RUNNER_MOVETO" FILE="../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/BTT_RUNNER_MOVETO.uasset" SILENT=true
+[2018.08.17-01.47.17:024][121]LogSavePackage: Save=33.11ms
+[2018.08.17-01.47.17:024][121]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/BTT_RUNNER_MOVETO776F9B994395A5FF25AF6CBEBEDF76FF.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/BTT_RUNNER_MOVETO.uasset'
+[2018.08.17-01.47.17:033][121]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/BTT_RUNNER_MOVETO.uasset
+[2018.08.17-01.47.20:998][299]LogEditorViewport: Clicking on Actor (LMB): SPAWNER_C (SPAWNER)
+[2018.08.17-01.51.07:572][547]BlueprintLog: New page: Compile SPAWNER
+[2018.08.17-01.51.12:519][780]BlueprintLog: New page: Compile RUNNER_CONTROLLER
+[2018.08.17-01.52.07:532][  4]BlueprintLog: New page: Compile SPAWNER
+[2018.08.17-01.52.08:700][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/SPAWNER" FILE="../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/SPAWNER.uasset" SILENT=true
+[2018.08.17-01.52.08:831][ 18]LogSavePackage: Save=73.61ms
+[2018.08.17-01.52.08:831][ 18]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/SPAWNER18AB8E0E48522EAE2926328992BE7BD0.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/SPAWNER.uasset'
+[2018.08.17-01.52.08:841][ 18]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/SPAWNER.uasset
+[2018.08.17-01.52.10:517][117]BlueprintLog: New page: Compile RUNNER_CONTROLLER
+[2018.08.17-01.52.11:450][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/RUNNER_CONTROLLER" FILE="../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/RUNNER_CONTROLLER.uasset" SILENT=true
+[2018.08.17-01.52.11:493][141]LogSavePackage: Save=22.63ms
+[2018.08.17-01.52.11:493][141]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/RUNNER_CONTROLLER346CBB754E95F3AC1284FFAA5F4F702B.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/RUNNER_CONTROLLER.uasset'
+[2018.08.17-01.52.11:504][141]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/AI/RUNNER_CONTROLLER.uasset
+[2018.08.17-01.52.26:345][988]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.17-01.52.26:400][988]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.17-01.52.26:409][988]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.17-01.52.26:409][988]PIE: New page: PIE session: TopDownExampleMap (Aug 16, 2018, 5:52:26 PM)
+[2018.08.17-01.52.26:409][988]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.17-01.52.26:607][988]LogPlayLevel: PIE: StaticDuplicateObject took: (0.197936s)
+[2018.08.17-01.52.26:609][988]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.17-01.52.26:609][988]LogPlayLevel: PIE: World Init took: (0.002263s)
+[2018.08.17-01.52.26:610][988]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.201088s)
+[2018.08.17-01.52.26:674][988]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.17-01.52.26:751][988]LogInit: FAudioDevice initialized.
+[2018.08.17-01.52.26:816][988]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.17-01.52.26:821][988]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2018.08.16-21.52.26
+[2018.08.17-01.52.26:822][988]LogWorld: Bringing up level for play took: 0.004813
+[2018.08.17-01.52.26:871][988]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.034
+[2018.08.17-01.52.26:872][988]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.17-01.52.33:578][360]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.17-01.52.33:642][360]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.17-01.56.32:112][234]LogSavePackage: Save=418.67ms
+[2018.08.17-01.56.32:112][234]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/TopDownExampleMap_Auto0E6F7664F4ECA8F0F96A044921AD5047A.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto0.umap'
+[2018.08.17-01.56.32:116][234]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto0.umap
+[2018.08.17-01.56.32:122][234]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.543
+[2018.08.17-01.56.32:122][234]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.543
+[2018.08.17-02.55.17:056][976]LogSavePackage: Save=433.17ms
+[2018.08.17-02.55.17:056][976]LogSavePackage: Moving '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/TopDownExampleMapC0A17130470DB88622CA058AA6956BA9.tmp' to '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.08.17-02.55.17:068][976]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.08.17-02.55.17:149][976]LogFileHelpers: Saving map 'TopDownExampleMap' took 1.092
+[2018.08.17-02.55.36:791][822]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.08.17-02.55.37:163][822]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.08.17-02.55.37:355][822]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.17-02.55.38:088][823]Cmd: QUIT_EDITOR
+[2018.08.17-02.55.40:483][823]LogExit: Preparing to exit.
+[2018.08.17-02.55.41:780][823]LogDirectoryWatcher: A directory notification for 'C:/Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/' was aborted.
+[2018.08.17-02.55.42:392][823]LogExit: Editor shut down
+[2018.08.17-02.55.42:461][823]LogExit: Transaction tracking system shut down
+[2018.08.17-02.55.43:181][823]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.08.17-02.55.43:181][823]LogDirectoryWatcher: A directory notification for '../../../../../../Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/' was aborted.
+[2018.08.17-02.55.43:181][823]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.08.17-02.55.43:182][823]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.08.17-02.55.43:182][823]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.08.17-02.55.43:182][823]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.08.17-02.55.43:182][823]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.08.17-02.55.45:803][823]LogExit: Object subsystem successfully closed.
+[2018.08.17-02.55.46:579][823]LogD3D11RHI: Shutdown
+[2018.08.17-02.55.46:626][823]LogD3D11RHI: CleanupD3DDevice
+[2018.08.17-02.55.46:710][823]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.08.17-02.55.48:610][823]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (552)
+[2018.08.17-02.55.48:610][823]LogModuleManager: Shutting down and abandoning module BlueprintGraph (550)
+[2018.08.17-02.55.48:610][823]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.08.17-02.55.48:610][823]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.08.17-02.55.48:610][823]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.08.17-02.55.48:621][823]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.08.17-02.55.48:648][823]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.08.17-02.55.48:648][823]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.08.17-02.55.48:648][823]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.08.17-02.55.48:670][823]LogDirectoryWatcher: A directory notification for 'C:/Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/Collections/' was aborted.
+[2018.08.17-02.55.48:671][823]LogDirectoryWatcher: A directory notification for 'C:/Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Content/Developers/katsa/Collections/' was aborted.
+[2018.08.17-02.55.48:671][823]LogDirectoryWatcher: A directory notification for 'C:/Users/katsa/OneDrive/Documents/GitHub/Tower_Defense_Game/game/Saved/Collections/' was aborted.
+[2018.08.17-02.55.48:671][823]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.08.17-02.55.48:679][823]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.08.17-02.55.48:693][823]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.08.17-02.55.48:732][823]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.08.17-02.55.48:760][823]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.08.17-02.55.48:760][823]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.08.17-02.55.48:760][823]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.08.17-02.55.48:760][823]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.08.17-02.55.48:760][823]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.08.17-02.55.48:760][823]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.08.17-02.55.48:760][823]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.08.17-02.55.48:760][823]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.08.17-02.55.48:786][823]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.08.17-02.55.48:796][823]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.08.17-02.55.48:829][823]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.08.17-02.55.48:868][823]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.08.17-02.55.48:869][823]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.08.17-02.55.48:869][823]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.08.17-02.55.48:869][823]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.08.17-02.55.48:869][823]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.08.17-02.55.48:869][823]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.08.17-02.55.48:869][823]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.08.17-02.55.48:869][823]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.08.17-02.55.48:870][823]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.08.17-02.55.48:870][823]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.08.17-02.55.48:870][823]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.08.17-02.55.48:870][823]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.08.17-02.55.48:886][823]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.08.17-02.55.48:908][823]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.08.17-02.55.48:908][823]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.08.17-02.55.48:908][823]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.08.17-02.55.48:908][823]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.08.17-02.55.48:908][823]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.08.17-02.55.48:925][823]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.08.17-02.55.48:952][823]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.08.17-02.55.48:975][823]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.08.17-02.55.49:024][823]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.08.17-02.55.49:038][823]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.08.17-02.55.49:038][823]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.08.17-02.55.49:038][823]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.08.17-02.55.49:038][823]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.08.17-02.55.49:630][823]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.08.17-02.55.49:631][823]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.08.17-02.55.49:631][823]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.08.17-02.55.49:631][823]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.08.17-02.55.49:661][823]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.08.17-02.55.49:726][823]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.08.17-02.55.49:726][823]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.08.17-02.55.49:749][823]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.08.17-02.55.49:749][823]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.08.17-02.55.49:760][823]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.08.17-02.55.49:769][823]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.08.17-02.55.49:769][823]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.08.17-02.55.49:769][823]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.08.17-02.55.49:769][823]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.08.17-02.55.49:784][823]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.08.17-02.55.49:784][823]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.08.17-02.55.49:784][823]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.08.17-02.55.49:785][823]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.08.17-02.55.49:785][823]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.08.17-02.55.49:798][823]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.08.17-02.55.49:838][823]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.08.17-02.55.49:884][823]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.08.17-02.55.49:899][823]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.08.17-02.55.49:941][823]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.08.17-02.55.50:089][823]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.08.17-02.55.50:118][823]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.08.17-02.55.50:190][823]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.08.17-02.55.50:252][823]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.08.17-02.55.50:252][823]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.08.17-02.55.50:267][823]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.08.17-02.55.50:322][823]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.08.17-02.55.50:361][823]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.08.17-02.55.50:361][823]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.08.17-02.55.50:361][823]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.08.17-02.55.50:415][823]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.08.17-02.55.50:415][823]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.08.17-02.55.50:415][823]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.08.17-02.55.50:435][823]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.08.17-02.55.50:466][823]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.08.17-02.55.50:501][823]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.08.17-02.55.50:516][823]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.08.17-02.55.50:516][823]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.08.17-02.55.50:517][823]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.08.17-02.55.50:517][823]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.08.17-02.55.50:517][823]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.08.17-02.55.50:517][823]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.08.17-02.55.50:517][823]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.08.17-02.55.50:517][823]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.08.17-02.55.50:517][823]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.08.17-02.55.50:517][823]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.08.17-02.55.50:517][823]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.08.17-02.55.50:517][823]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.08.17-02.55.50:525][823]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.08.17-02.55.50:525][823]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.08.17-02.55.50:561][823]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.08.17-02.55.50:607][823]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.08.17-02.55.50:607][823]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.08.17-02.55.50:607][823]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.08.17-02.55.50:620][823]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.08.17-02.55.50:624][823]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.08.17-02.55.50:624][823]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.08.17-02.55.50:624][823]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.08.17-02.55.50:635][823]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.08.17-02.55.50:635][823]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.08.17-02.55.50:635][823]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.08.17-02.55.50:635][823]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.08.17-02.55.50:670][823]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.08.17-02.55.50:670][823]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.08.17-02.55.50:670][823]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.08.17-02.55.50:670][823]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.08.17-02.55.50:684][823]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.08.17-02.55.50:684][823]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.08.17-02.55.50:694][823]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.08.17-02.55.50:695][823]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.08.17-02.55.50:695][823]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.08.17-02.55.50:768][823]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.08.17-02.55.50:794][823]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.08.17-02.55.50:794][823]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.08.17-02.55.50:794][823]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.08.17-02.55.50:794][823]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.08.17-02.55.50:823][823]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.08.17-02.55.50:850][823]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.08.17-02.55.50:888][823]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.08.17-02.55.50:917][823]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.08.17-02.55.50:918][823]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.08.17-02.55.50:918][823]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.08.17-02.55.50:918][823]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.08.17-02.55.50:942][823]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.08.17-02.55.50:956][823]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.08.17-02.55.50:980][823]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.08.17-02.55.50:993][823]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.08.17-02.55.50:993][823]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.08.17-02.55.51:055][823]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.08.17-02.55.51:055][823]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.08.17-02.55.51:055][823]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.08.17-02.55.51:055][823]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.08.17-02.55.51:055][823]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.08.17-02.55.51:056][823]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.08.17-02.55.51:056][823]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.08.17-02.55.51:077][823]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.08.17-02.55.51:192][823]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.08.17-02.55.51:318][823]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.08.17-02.55.51:422][823]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.08.17-02.55.51:422][823]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.08.17-02.55.51:422][823]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.08.17-02.55.51:443][823]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.08.17-02.55.51:443][823]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.08.17-02.55.51:448][823]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.08.17-02.55.51:448][823]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.08.17-02.55.51:448][823]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.08.17-02.55.51:461][823]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.08.17-02.55.51:481][823]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.08.17-02.55.51:481][823]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.08.17-02.55.51:481][823]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.08.17-02.55.51:481][823]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.08.17-02.55.51:492][823]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.08.17-02.55.51:492][823]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.08.17-02.55.51:499][823]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.08.17-02.55.51:500][823]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.08.17-02.55.51:500][823]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.08.17-02.55.51:549][823]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.08.17-02.55.51:561][823]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.08.17-02.55.51:561][823]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.08.17-02.55.51:561][823]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.08.17-02.55.51:571][823]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.08.17-02.55.51:583][823]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.08.17-02.55.51:583][823]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.08.17-02.55.51:589][823]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.08.17-02.55.51:623][823]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.08.17-02.55.51:672][823]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.08.17-02.55.51:672][823]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.08.17-02.55.51:708][823]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.08.17-02.55.51:708][823]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.08.17-02.55.51:715][823]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.08.17-02.55.51:715][823]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.08.17-02.55.51:715][823]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.08.17-02.55.51:715][823]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.08.17-02.55.51:715][823]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.08.17-02.55.51:716][823]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.08.17-02.55.51:716][823]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.08.17-02.55.51:730][823]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.08.17-02.55.51:748][823]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.08.17-02.55.51:748][823]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.08.17-02.55.51:791][823]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.08.17-02.55.51:800][823]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.08.17-02.55.51:800][823]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.08.17-02.55.51:811][823]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.08.17-02.55.51:811][823]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.08.17-02.55.51:824][823]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.08.17-02.55.51:830][823]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.08.17-02.55.51:903][823]LogDerivedDataCache: Shutdown
+[2018.08.17-02.55.51:903][823]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.08.17-02.55.51:920][823]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.08.17-02.55.51:958][823]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.08.17-02.55.51:985][823]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.08.17-02.55.52:000][823]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.08.17-02.55.52:007][823]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.08.17-02.55.52:030][823]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.08.17-02.55.52:030][823]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.08.17-02.55.52:030][823]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.08.17-02.55.52:045][823]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.08.17-02.55.52:052][823]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.08.17-02.55.52:052][823]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.08.17-02.55.52:052][823]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.08.17-02.55.52:053][823]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.08.17-02.55.52:053][823]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.08.17-02.55.52:053][823]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.08.17-02.55.52:053][823]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.08.17-02.55.52:068][823]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.08.17-02.55.52:068][823]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.08.17-02.55.52:068][823]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.08.17-02.55.52:068][823]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.08.17-02.55.52:068][823]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.08.17-02.55.52:073][823]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.08.17-02.55.52:073][823]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.08.17-02.55.52:073][823]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.08.17-02.55.52:073][823]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.08.17-02.55.52:074][823]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.08.17-02.55.52:074][823]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.08.17-02.55.52:074][823]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.08.17-02.55.52:074][823]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.08.17-02.55.52:074][823]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.08.17-02.55.52:074][823]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.08.17-02.55.52:074][823]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.08.17-02.55.52:074][823]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.08.17-02.55.52:074][823]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.08.17-02.55.52:074][823]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.08.17-02.55.52:074][823]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.08.17-02.55.52:074][823]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.08.17-02.55.52:074][823]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.08.17-02.55.52:075][823]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.08.17-02.55.52:075][823]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.08.17-02.55.52:075][823]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.08.17-02.55.52:075][823]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.08.17-02.55.52:075][823]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.08.17-02.55.52:075][823]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.08.17-02.55.52:075][823]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.08.17-02.55.52:092][823]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.08.17-02.55.52:092][823]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.08.17-02.55.52:092][823]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.08.17-02.55.52:092][823]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.08.17-02.55.52:092][823]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.08.17-02.55.52:120][823]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.08.17-02.55.52:150][823]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.08.17-02.55.52:150][823]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.08.17-02.55.52:160][823]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE3289DDE-4348-D7C4-4F9D-6BA1CF287B27%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=3017809544610443dec9c09cbb2468d0%7C47545c2e30d646d3a8d532d986037bc3%7C6b798f61-ecef-44c4-b42f-23f8ddc7426f&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.08.17-02.55.52:188][823]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.08.17-02.55.52:219][823]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.08.17-02.55.52:236][823]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.08.17-02.55.52:236][823]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.08.17-02.55.52:279][823]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.08.17-02.55.52:366][823]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.08.17-02.55.52:366][823]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.08.17-02.55.52:366][823]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.08.17-02.55.52:396][823]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.08.17-02.55.52:426][823]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.08.17-02.55.52:426][823]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.08.17-02.55.52:439][823]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.08.17-02.55.52:441][823]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.08.17-02.55.52:441][823]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.08.17-02.55.52:441][823]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.08.17-02.55.52:459][823]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.08.17-02.55.52:459][823]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.08.17-02.55.52:472][823]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.08.17-02.55.52:486][823]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.08.17-02.55.52:594][823]LogExit: Exiting.
+[2018.08.17-02.55.52:619][823]Log file closed, 08/16/18 22:55:52
