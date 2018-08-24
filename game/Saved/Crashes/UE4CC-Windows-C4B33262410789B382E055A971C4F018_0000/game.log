@@ -1,0 +1,958 @@
+﻿Log file open, 08/24/18 13:06:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: game
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1467329705) SRandInit(-1467329705).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.677030
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.19.0
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.24-17.06.29:139][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.24-17.06.29:139][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.24-17.06.29:153][  0]LogInit: Computer: 2010-01-271-21
+[2018.08.24-17.06.29:153][  0]LogInit: User: Student
+[2018.08.24-17.06.29:153][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.24-17.06.29:153][  0]LogInit: High frequency timer resolution =3.410097 MHz
+[2018.08.24-17.06.29:154][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.08.24-17.06.29:154][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.24-17.06.29:154][  0]LogMemory: Process Physical Memory: 279.06 MB used, 279.06 MB peak
+[2018.08.24-17.06.29:154][  0]LogMemory: Process Virtual Memory: 276.80 MB used, 276.80 MB peak
+[2018.08.24-17.06.29:154][  0]LogMemory: Physical Memory: 5447.15 MB used,  10853.21 MB free, 16300.36 MB total
+[2018.08.24-17.06.29:154][  0]LogMemory: Virtual Memory: 672.91 MB used,  10853.21 MB free, 8388608.00 MB total
+[2018.08.24-17.06.29:464][  0]LogInit: Using OS detected language (en-US).
+[2018.08.24-17.06.29:464][  0]LogInit: Using OS detected locale (en-US).
+[2018.08.24-17.06.29:479][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.08.24-17.06.29:898][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.08.24-17.06.29:898][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.08.24-17.06.29:898][  0]LogInit: Setting process to DPI aware
+[2018.08.24-17.06.29:909][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.08.24-17.06.29:909][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.08.24-17.06.29:909][  0]LogInit: Setting process to DPI aware
+[2018.08.24-17.06.30:344][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.24-17.06.30:384][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.08.24-17.06.30:384][  0]LogD3D11RHI:       8077/0/7894 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.08.24-17.06.30:384][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.24-17.06.30:389][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.24-17.06.30:390][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.24-17.06.30:390][  0]LogWindows: EnumDisplayDevices:
+[2018.08.24-17.06.30:390][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.08.24-17.06.30:390][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.08.24-17.06.30:390][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.08.24-17.06.30:390][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.08.24-17.06.30:390][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2018.08.24-17.06.30:390][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.08.24-17.06.30:390][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.08.24-17.06.30:390][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.08.24-17.06.30:390][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.08.24-17.06.30:391][  0]LogD3D11RHI:   Driver Version: 398.36 (internal:24.21.13.9836, unified:398.36)
+[2018.08.24-17.06.30:391][  0]LogD3D11RHI:      Driver Date: 6-24-2018
+[2018.08.24-17.06.30:391][  0]LogRHI: Texture pool is 5654 MB (70% of 8077 MB)
+[2018.08.24-17.06.30:411][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.24-17.06.30:446][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.08.24-17.06.30:494][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Intermediate/Shaders/WorkingDirectory/22956/).
+[2018.08.24-17.06.30:494][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/student.AII/AppData/Local/Temp/UnrealShaderWorkingDir/E98DB0874F03AD55D4AEEA8846C6B8F9/'.
+[2018.08.24-17.06.30:495][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.24-17.06.32:541][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.24-17.06.32:597][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.24-17.06.32:657][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.24-17.06.32:712][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.24-17.06.32:770][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.24-17.06.32:827][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.24-17.06.32:883][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.24-17.06.32:940][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.24-17.06.32:990][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.24-17.06.33:046][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.24-17.06.33:101][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.24-17.06.33:158][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.24-17.06.33:214][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.24-17.06.33:270][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.24-17.06.33:384][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.24-17.06.33:384][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.24-17.06.33:444][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.24-17.06.33:489][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.24-17.06.33:601][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.24-17.06.33:632][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.24-17.06.33:687][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.24-17.06.33:742][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.24-17.06.33:797][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.24-17.06.33:855][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.24-17.06.33:855][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.24-17.06.34:538][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.24-17.06.34:538][  0]LogDerivedDataCache: Display: Starting with empty Boot cache
+[2018.08.24-17.06.34:538][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.24-17.06.34:538][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.24-17.06.34:538][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.24-17.06.34:538][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.24-17.06.34:561][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.24-17.06.34:573][  0]LogDerivedDataCache: Using Local data cache path C:/Users/student.AII/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.24-17.06.34:603][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.24-17.06.34:608][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.24-17.06.34:614][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.24-17.06.34:614][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.24-17.06.35:424][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.24-17.06.35:577][  0]LogMaterial: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2018.08.24-17.07.08:611][  0]LogMaterial: Missing cached shader map for material DefaultLightFunctionMaterial, compiling. 
+[2018.08.24-17.07.09:379][  0]LogMaterial: Missing cached shader map for material DefaultPostProcessMaterial, compiling. 
+[2018.08.24-17.07.09:949][  0]LogMaterial: Missing cached shader map for material DefaultDeferredDecalMaterial, compiling. 
+[2018.08.24-17.07.17:059][  0]LogMaterial: Missing cached shader map for material MatineeCam_mat, compiling. 
+[2018.08.24-17.07.17:499][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.24-17.07.17:568][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.24-17.07.17:569][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.24-17.07.17:569][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.24-17.07.17:569][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.24-17.07.17:569][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.24-17.07.17:647][  0]LogNetVersion: game , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1359646243)
+[2018.08.24-17.07.17:700][  0]LogMaterial: Missing cached shader map for material HelpActorMaterial, compiling. 
+[2018.08.24-17.07.17:907][  0]LogMaterial: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2018.08.24-17.07.18:124][  0]LogAssetRegistry: FAssetRegistry took 0.0296 seconds to start up
+[2018.08.24-17.07.18:263][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.08.24-17.07.18:283][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.08.24-17.07.18:317][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.08.24-17.07.18:342][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.08.24-17.07.18:361][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.08.24-17.07.18:395][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.08.24-17.07.18:516][  0]LogMaterial: Missing cached shader map for material CineMat, compiling. 
+[2018.08.24-17.07.18:653][  0]LogMaterial: Missing cached shader map for material M_SimpleOpaque, compiling. 
+[2018.08.24-17.07.18:713][  0]LogMaterial: Missing cached shader map for material M_SimpleTranslucent, compiling. 
+[2018.08.24-17.07.18:947][  0]LogMaterial: Missing cached shader map for material TranslucentTransformGizmoMaterial, compiling. 
+[2018.08.24-17.07.18:965][  0]LogMaterial: Missing cached shader map for material TransformGizmoMaterial, compiling. 
+[2018.08.24-17.07.18:986][  0]LogMaterial: Missing cached shader map for material SnapGridMaterial, compiling. 
+[2018.08.24-17.07.19:150][  0]LogMaterial: Missing cached shader map for material Xray, compiling. 
+[2018.08.24-17.07.19:186][  0]LogMaterial: Missing cached shader map for material Main, compiling. 
+[2018.08.24-17.07.19:456][  0]LogMaterial: Missing cached shader map for material SkySphereMaterial, compiling. 
+[2018.08.24-17.07.19:485][  0]LogMaterial: Missing cached shader map for material FloorPlaneMaterial, compiling. 
+[2018.08.24-17.07.19:912][  0]LogMaterial: Missing cached shader map for material LandscapeGizmo_Mat, compiling. 
+[2018.08.24-17.07.19:962][  0]LogMaterial: Missing cached shader map for material LandscapeGizmoHeight_Mat, compiling. 
+[2018.08.24-17.07.20:084][  0]LogMaterial: Missing cached shader map for material SplineEditorMeshMat, compiling. 
+[2018.08.24-17.07.20:283][  0]LogMaterial: Missing cached shader map for material ARKitCameraMaterial, compiling. 
+[2018.08.24-17.07.20:342][  0]LogMaterial: Missing cached shader map for material GearVRControllerMaterial, compiling. 
+[2018.08.24-17.07.20:518][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.096350 seconds
+[2018.08.24-17.07.20:528][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.08.24-17.07.20:528][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.08.24-17.07.20:528][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.24-17.07.20:636][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.08.24-17.07.26:485][  0]LogMaterial: Missing cached shader map for material ArrowMaterial, compiling. 
+[2018.08.24-17.07.26:538][  0]LogMaterial: Missing cached shader map for material KeyDiskMaterial, compiling. 
+[2018.08.24-17.07.26:559][  0]LogMaterial: Missing cached shader map for material TeleportDirectionMaterial, compiling. 
+[2018.08.24-17.07.26:608][  0]LogMaterial: Missing cached shader map for material LaserPointerMaterial, compiling. 
+[2018.08.24-17.07.26:643][  0]LogMaterial: Missing cached shader map for material LaserPointerMaterial, compiling. 
+[2018.08.24-17.07.26:699][  0]LogMaterial: Missing cached shader map for material GridPostProcess, compiling. 
+[2018.08.24-17.07.26:715][  0]LogMaterial: Missing cached shader map for material VRTextMaterial, compiling. 
+[2018.08.24-17.07.26:746][  0]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2018.08.24-17.07.26:791][  0]LogMaterial: Missing cached shader map for material VivePreControllerMaterial, compiling. 
+[2018.08.24-17.07.26:830][  0]LogMaterial: Missing cached shader map for material OculusControllerMaterial, compiling. 
+[2018.08.24-17.07.26:877][  0]LogMaterial: Missing cached shader map for material M_ContentWindow, compiling. 
+[2018.08.24-17.07.26:991][  0]LogMaterial: Missing cached shader map for material GenericHMDMaterial, compiling. 
+[2018.08.24-17.07.27:038][  0]LogMaterial: Missing cached shader map for material FlattenHeightMat, compiling. 
+[2018.08.24-17.07.27:069][  0]LogMaterial: Missing cached shader map for material LineMaterial, compiling. 
+[2018.08.24-17.07.27:091][  0]LogMaterial: Missing cached shader map for material VRTextMaterial, compiling. 
+[2018.08.24-17.07.29:901][  0]LogMaterial: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2018.08.24-17.07.29:934][  0]LogMaterial: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2018.08.24-17.07.30:949][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.24-17.07.31:069][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.24-17.07.31:830][  0]LogMaterial: Missing cached shader map for material DefaultMaterial, compiling. 
+[2018.08.24-17.07.32:896][  0]LogMaterial: Missing cached shader map for material BaseColor, compiling. 
+[2018.08.24-17.07.32:911][  0]LogMaterial: Missing cached shader map for material CustomDepth, compiling. 
+[2018.08.24-17.07.32:950][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.08.24-17.07.32:954][  0]LogMaterial: Missing cached shader map for material CustomStencil, compiling. 
+[2018.08.24-17.07.32:976][  0]LogMaterial: Missing cached shader map for material FinalImage, compiling. 
+[2018.08.24-17.07.32:995][  0]LogMaterial: Missing cached shader map for material LightingModel, compiling. 
+[2018.08.24-17.07.33:012][  0]LogMaterial: Missing cached shader map for material MaterialAO, compiling. 
+[2018.08.24-17.07.33:030][  0]LogMaterial: Missing cached shader map for material Metallic, compiling. 
+[2018.08.24-17.07.33:045][  0]LogMaterial: Missing cached shader map for material Opacity, compiling. 
+[2018.08.24-17.07.33:061][  0]LogMaterial: Missing cached shader map for material Roughness, compiling. 
+[2018.08.24-17.07.33:076][  0]LogMaterial: Missing cached shader map for material SceneColor, compiling. 
+[2018.08.24-17.07.33:092][  0]LogMaterial: Missing cached shader map for material SceneDepth, compiling. 
+[2018.08.24-17.07.33:109][  0]LogMaterial: Missing cached shader map for material SeparateTranslucencyRGB, compiling. 
+[2018.08.24-17.07.33:126][  0]LogMaterial: Missing cached shader map for material SeparateTranslucencyA, compiling. 
+[2018.08.24-17.07.33:142][  0]LogMaterial: Missing cached shader map for material Specular, compiling. 
+[2018.08.24-17.07.33:159][  0]LogMaterial: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2018.08.24-17.07.33:174][  0]LogMaterial: Missing cached shader map for material WorldNormal, compiling. 
+[2018.08.24-17.07.33:191][  0]LogMaterial: Missing cached shader map for material AmbientOcclusion, compiling. 
+[2018.08.24-17.07.33:220][  0]LogMaterial: Missing cached shader map for material CustomDepthWorldUnits, compiling. 
+[2018.08.24-17.07.33:236][  0]LogMaterial: Missing cached shader map for material SceneDepthWorldUnits, compiling. 
+[2018.08.24-17.07.33:251][  0]LogMaterial: Missing cached shader map for material PreTonemapHDRColor, compiling. 
+[2018.08.24-17.07.33:269][  0]LogMaterial: Missing cached shader map for material PostTonemapHDRColor, compiling. 
+[2018.08.24-17.07.34:093][  0]SourceControl: Source control is disabled
+[2018.08.24-17.07.34:095][  0]SourceControl: Source control is disabled
+[2018.08.24-17.07.34:221][  0]SourceControl: Source control is disabled
+[2018.08.24-17.07.34:345][  0]SourceControl: Source control is disabled
+[2018.08.24-17.07.35:531][  0]LogMaterial: Missing cached shader map for material DefaultMediaPlaneMaterial, compiling. 
+[2018.08.24-17.07.36:113][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.24-17.07.36:642][  0]LogOcInput: OculusInput pre-init called
+[2018.08.24-17.07.37:144][  0]LogMaterial: Missing cached shader map for material HighResScreenshot, compiling. 
+[2018.08.24-17.07.37:175][  0]LogMaterial: Missing cached shader map for material HighResScreenshotMask, compiling. 
+[2018.08.24-17.07.37:207][  0]LogMaterial: Missing cached shader map for material HighResScreenshotCaptureRegion, compiling. 
+[2018.08.24-17.07.37:296][  0]LogEngine: Initializing Engine...
+[2018.08.24-17.07.37:302][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.24-17.07.37:311][  0]LogMaterial: Missing cached shader map for material WireframeMaterial, compiling. Is special engine material.
+[2018.08.24-17.07.37:662][  0]LogMaterial: Missing cached shader map for material LevelColorationLitMaterial, compiling. Is special engine material.
+[2018.08.24-17.07.38:668][  0]LogMaterial: Missing cached shader map for material LevelColorationUnlitMaterial, compiling. Is special engine material.
+[2018.08.24-17.07.38:991][  0]LogMaterial: Missing cached shader map for material MAT_LevelColorationLitLightmapUV, compiling. Is special engine material.
+[2018.08.24-17.07.40:048][  0]LogMaterial: Missing cached shader map for material ShadedLevelColorationLitMaterial, compiling. Is special engine material.
+[2018.08.24-17.07.41:042][  0]LogMaterial: Missing cached shader map for material ShadedLevelColorationUnlitMateri, compiling. Is special engine material.
+[2018.08.24-17.07.41:337][  0]LogMaterial: Missing cached shader map for material VertexColorMaterial, compiling. 
+[2018.08.24-17.07.41:486][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_ColorOnly, compiling. 
+[2018.08.24-17.07.41:520][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_AlphaAsColor, compiling. 
+[2018.08.24-17.07.41:548][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_RedOnly, compiling. 
+[2018.08.24-17.07.41:576][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_GreenOnly, compiling. 
+[2018.08.24-17.07.41:602][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_BlueOnly, compiling. 
+[2018.08.24-17.07.41:628][  0]LogMaterial: Missing cached shader map for material RemoveSurfaceMaterial, compiling. 
+[2018.08.24-17.07.41:644][  0]LogMaterial: Missing cached shader map for material DebugMeshMaterial, compiling. 
+[2018.08.24-17.07.41:672][  0]LogMaterial: Missing cached shader map for material M_InvalidLightmapSettings, compiling. 
+[2018.08.24-17.07.41:739][  0]LogMaterial: Missing cached shader map for material GizmoMaterial, compiling. 
+[2018.08.24-17.07.41:767][  0]LogMaterial: Missing cached shader map for material PhAT_JointLimitMaterial, compiling. 
+[2018.08.24-17.07.41:800][  0]LogMaterial: Missing cached shader map for material GeomMaterial, compiling. 
+[2018.08.24-17.07.41:820][  0]LogMaterial: Missing cached shader map for material EditorBrushMaterial, compiling. 
+[2018.08.24-17.07.41:845][  0]LogMaterial: Missing cached shader map for material BoneWeightMaterial, compiling. 
+[2018.08.24-17.07.41:992][  0]LogMaterial: Missing cached shader map for material ClothMaterial, compiling. 
+[2018.08.24-17.07.42:017][  0]LogMaterial: Missing cached shader map for material ClothMaterial_WF, compiling. 
+[2018.08.24-17.07.42:052][  0]LogMaterial: Missing cached shader map for material DebugEditorMaterial, compiling. 
+[2018.08.24-17.07.42:079][  0]LogMaterial: Missing cached shader map for material PreviewShadowIndicatorMaterial, compiling. 
+[2018.08.24-17.07.42:444][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.24-17.07.42:444][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.24-17.07.42:733][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.24-17.07.42:767][  0]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.24-17.07.42:777][  0]LogInit: FAudioDevice initialized.
+[2018.08.24-17.07.42:863][  0]LogDerivedDataCache: Saved boot cache 0.09s 69MB C:/Users/student.AII/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.08.24-17.07.42:872][  0]LogInit: Texture streaming: Enabled
+[2018.08.24-17.07.43:119][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.24-17.07.43:389][  0]LogInit: Transaction tracking system initialized
+[2018.08.24-17.07.44:106][  0]BlueprintLog: New page: Editor Load
+[2018.08.24-17.07.46:277][  0]LocalizationService: Localization service is disabled
+[2018.08.24-17.07.47:998][  0]LogConsoleResponse: Display: 
+[2018.08.24-17.07.48:088][  0]LogMaterial: Missing cached shader map for material Cross_Mat, compiling. 
+[2018.08.24-17.07.48:123][  0]LogMaterial: Missing cached shader map for material PhAT_BoneSelectedMaterial, compiling. 
+[2018.08.24-17.07.48:149][  0]LogMaterial: Missing cached shader map for material PhAT_ElemSelectedMaterial, compiling. 
+[2018.08.24-17.07.48:180][  0]LogMaterial: Missing cached shader map for material PhAT_NoCollisionMaterial, compiling. 
+[2018.08.24-17.07.48:204][  0]LogMaterial: Missing cached shader map for material PhAT_UnselectedMaterial, compiling. 
+[2018.08.24-17.07.48:233][  0]LogMaterial: Missing cached shader map for material Tick_Mat, compiling. 
+[2018.08.24-17.07.48:277][  0]LogMaterial: Missing cached shader map for material WidgetGridVertexColorMaterial_Ma, compiling. 
+[2018.08.24-17.07.48:304][  0]LogMaterial: Missing cached shader map for material WidgetMaterial, compiling. 
+[2018.08.24-17.07.48:325][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Current, compiling. 
+[2018.08.24-17.07.48:349][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_X, compiling. 
+[2018.08.24-17.07.48:370][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Y, compiling. 
+[2018.08.24-17.07.48:393][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Z, compiling. 
+[2018.08.24-17.07.48:413][  0]LogMaterial: Missing cached shader map for material WidgetVertexColorMaterial, compiling. 
+[2018.08.24-17.07.48:476][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial, compiling. 
+[2018.08.24-17.07.48:550][  0]LogMaterial: Missing cached shader map for material BlinkingCaret, compiling. 
+[2018.08.24-17.07.48:622][  0]LogMaterial: Missing cached shader map for material M_StreamingPause, compiling. 
+[2018.08.24-17.07.48:674][  0]LogFileCache: Scanning file cache for directory 'C:/Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/' took 0.01s
+[2018.08.24-17.07.48:674][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.24-17.07.48:674][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.24-17.07.48:674][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.24-17.07.51:396][  0]SourceControl: Source control is disabled
+[2018.08.24-17.07.51:398][  0]Cmd: MAP LOAD FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.24-17.07.51:402][  0]LightingResults: New page: Lighting Build
+[2018.08.24-17.07.51:511][  0]MapCheck: New page: Map Check
+[2018.08.24-17.07.51:511][  0]LightingResults: New page: Lighting Build
+[2018.08.24-17.07.52:181][  0]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.08.24-17.07.52:567][  0]LogMaterial: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling. 
+[2018.08.24-17.07.52:593][  0]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.08.24-17.07.52:806][  0]LogMaterial: Missing cached shader map for material M_Cursor_Decal, compiling. 
+[2018.08.24-17.07.52:982][  0]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.08.24-17.07.53:218][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.24-17.07.53:553][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.24-17.07.53:582][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.24-17.07.53:679][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 96.286ms to complete.
+[2018.08.24-17.07.53:679][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 2.280
+[2018.08.24-17.07.53:961][  0]LogCollectionManager: Loaded 0 collections in 0.003313 seconds
+[2018.08.24-17.07.54:115][  0]LogFileCache: Scanning file cache for directory 'C:/Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Collections/' took 0.01s
+[2018.08.24-17.07.54:115][  0]LogFileCache: Scanning file cache for directory 'C:/Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Developers/Student/Collections/' took 0.01s
+[2018.08.24-17.07.54:115][  0]LogFileCache: Scanning file cache for directory 'C:/Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Collections/' took 0.01s
+[2018.08.24-17.07.54:115][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.08.24-17.07.54:133][  0]LogContentBrowser: Native class hierarchy populated in 0.0156 seconds. Added 2363 classes and 519 folders.
+[2018.08.24-17.07.54:262][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.08.24-17.07.54:432][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.08.24-17.07.54:548][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.08.24-17.07.54:658][  0]LogSlate: Took 0.004018 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.24-17.07.54:664][  0]LogSlate: Took 0.002076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.24-17.07.54:677][  0]LogSlate: Took 0.001879 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.24-17.07.54:753][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2018.08.24-17.07.54:874][  0]LogRenderer: Reallocating scene render targets to support 1208x652 Format 10 NumSamples 1 (Frame:1).
+[2018.08.24-17.07.55:443][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.08.24-17.07.55:443][  0]LogLoad: (Engine Initialization) Total time: 90.96 seconds
+[2018.08.24-17.07.55:443][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.24-17.07.55:443][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.08.24-17.07.55:819][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.08.24-17.07.55:917][  0]LogSlate: Took 0.001620 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.24-17.07.56:174][  1]LogAssetRegistry: Asset discovery search completed in 38.0416 seconds
+[2018.08.24-17.07.56:177][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.08.24-17.07.56:178][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000085 seconds (updated 0 objects)
+[2018.08.24-17.07.56:799][  3]LogSlate: Took 0.003166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.24-17.08.49:904][352]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.24-17.08.50:361][352]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.08.24-17.08.51:253][352]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2018.08.24-17.08.51:307][352]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2018.08.24-17.08.51:419][352]LogSlate: Took 0.001775 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.24-17.08.51:571][353]LogSlate: Took 0.001725 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.24-17.09.26:154][545]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.24-17.10.48:824][723]LogEditorViewport: Clicking on Actor (LMB): Tower_BP_C (Tower_BP)
+[2018.08.24-17.14.06:337][255]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.24-17.18.11:851][  5]BlueprintLog: New page: Compile Tower_BP
+[2018.08.24-17.18.13:392][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tower/Tower_BP" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset" SILENT=true
+[2018.08.24-17.18.13:454][135]LogSavePackage: Save=54.15ms
+[2018.08.24-17.18.13:454][135]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Tower_BP8D39D4464EABF6B7BD40BF99ED44F880.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset'
+[2018.08.24-17.18.13:456][135]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset
+[2018.08.24-17.21.25:206][650]LogSavePackage: Save=170.88ms
+[2018.08.24-17.21.25:206][650]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/TopDownExampleMap_Auto1F263048349E7EA3136178884A7B3B3D1.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
+[2018.08.24-17.21.25:207][650]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap
+[2018.08.24-17.21.25:209][650]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.212
+[2018.08.24-17.21.25:209][650]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.212
+[2018.08.24-17.21.25:210][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/tower/Tower_BP] ([1] browsable assets)...
+[2018.08.24-17.21.25:221][650]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/tower/Tower_BP.Tower_BP]
+[2018.08.24-17.21.25:221][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/tower/Tower_BP]
+[2018.08.24-17.21.25:283][650]LogSavePackage: Save=56.02ms
+[2018.08.24-17.21.25:283][650]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Tower_BP_Auto18976EEEA4AB493289201C887395BDE91.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/tower/Tower_BP_Auto1.uasset'
+[2018.08.24-17.21.25:284][650]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/tower/Tower_BP_Auto1.uasset
+[2018.08.24-17.21.25:284][650]LogFileHelpers: Auto-saving content packages took 0.074
+[2018.08.24-17.21.34:072][523]LogSlate: Took 0.001548 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.08.24-17.21.52:845][650]BlueprintLog: New page: Compile Tower_BP
+[2018.08.24-17.21.53:684][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tower/Tower_BP" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset" SILENT=true
+[2018.08.24-17.21.53:747][698]LogSavePackage: Save=57.31ms
+[2018.08.24-17.21.53:747][698]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Tower_BP5F21963644BC3DB472D6AD8752DC9A99.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset'
+[2018.08.24-17.21.53:749][698]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset
+[2018.08.24-17.22.06:998][  7]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.24-17.22.07:036][  7]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.22.07:037][  7]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.24-17.22.07:039][  7]PIE: New page: PIE session: TopDownExampleMap (Aug 24, 2018, 9:22:07 AM)
+[2018.08.24-17.22.07:039][  7]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.24-17.22.07:058][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019273s)
+[2018.08.24-17.22.07:059][  7]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.24-17.22.07:059][  7]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2018.08.24-17.22.07:059][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.020378s)
+[2018.08.24-17.22.07:081][  7]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.24-17.22.07:087][  7]LogInit: FAudioDevice initialized.
+[2018.08.24-17.22.07:123][  7]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.24-17.22.07:127][  7]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.24-13.22.07
+[2018.08.24-17.22.07:128][  7]LogWorld: Bringing up level for play took: 0.003570
+[2018.08.24-17.22.07:174][  7]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.08.24-17.22.07:180][  7]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.196
+[2018.08.24-17.22.07:180][  7]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.22.10:909][448]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.22.10:940][448]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.22.13:231][713]LogEditorViewport: Clicking on Actor (LMB): Tower_BP_C (Tower_BP)
+[2018.08.24-17.23.34:021][330]BlueprintLog: New page: Compile Tower_BP
+[2018.08.24-17.23.34:412][330]BlueprintLog: New page: Compile Tower_BP
+[2018.08.24-17.23.34:954][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tower/Tower_BP" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset" SILENT=true
+[2018.08.24-17.23.35:020][342]LogSavePackage: Save=57.91ms
+[2018.08.24-17.23.35:020][342]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Tower_BP5F2CFD0148761EE5AE0EAD862BA7F04A.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset'
+[2018.08.24-17.23.35:022][342]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset
+[2018.08.24-17.24.14:974][512]BlueprintLog: New page: Compile Tower_BP
+[2018.08.24-17.24.16:020][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tower/Tower_BP" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset" SILENT=true
+[2018.08.24-17.24.16:083][587]LogSavePackage: Save=57.35ms
+[2018.08.24-17.24.16:083][587]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Tower_BP4E248D6B48E05BB1B9C6A995F2A91D09.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset'
+[2018.08.24-17.24.16:085][587]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset
+[2018.08.24-17.24.22:053][ 84]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.24-17.24.22:076][ 84]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.24.22:076][ 84]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.24-17.24.22:076][ 84]PIE: New page: PIE session: TopDownExampleMap (Aug 24, 2018, 9:24:22 AM)
+[2018.08.24-17.24.22:076][ 84]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.24-17.24.22:096][ 84]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019802s)
+[2018.08.24-17.24.22:097][ 84]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.24-17.24.22:097][ 84]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2018.08.24-17.24.22:097][ 84]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.020915s)
+[2018.08.24-17.24.22:117][ 84]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.24-17.24.22:123][ 84]LogInit: FAudioDevice initialized.
+[2018.08.24-17.24.22:151][ 84]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.24-17.24.22:153][ 84]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.24-13.24.22
+[2018.08.24-17.24.22:153][ 84]LogWorld: Bringing up level for play took: 0.001983
+[2018.08.24-17.24.22:156][ 84]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.774
+[2018.08.24-17.24.22:156][ 84]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.24.27:965][777]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.24.27:999][777]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.24.40:295][238]BlueprintLog: New page: Compile Tower_BP
+[2018.08.24-17.24.41:129][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tower/Tower_BP" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset" SILENT=true
+[2018.08.24-17.24.41:192][289]LogSavePackage: Save=57.14ms
+[2018.08.24-17.24.41:192][289]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Tower_BPB5EC43A34CDDB38C91748CBFA37AB7CB.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset'
+[2018.08.24-17.24.41:194][289]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset
+[2018.08.24-17.24.43:817][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.08.24-17.24.44:670][593]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.24-17.24.44:691][593]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.24.44:692][593]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.24-17.24.44:692][593]PIE: New page: PIE session: TopDownExampleMap (Aug 24, 2018, 9:24:44 AM)
+[2018.08.24-17.24.44:692][593]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.24-17.24.44:713][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020824s)
+[2018.08.24-17.24.44:713][593]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.24-17.24.44:714][593]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2018.08.24-17.24.44:714][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.021900s)
+[2018.08.24-17.24.44:734][593]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.24-17.24.44:740][593]LogInit: FAudioDevice initialized.
+[2018.08.24-17.24.44:769][593]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.24-17.24.44:771][593]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.24-13.24.44
+[2018.08.24-17.24.44:771][593]LogWorld: Bringing up level for play took: 0.001968
+[2018.08.24-17.24.44:774][593]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.609
+[2018.08.24-17.24.44:774][593]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.24.48:608][ 50]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.24.48:637][ 50]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.24.49:999][207]LogEditorViewport: Clicking on Actor (LMB): Tower_BP_C (Tower_BP)
+[2018.08.24-17.26.17:957][862]Cmd: TRANSACTION UNDO
+[2018.08.24-17.26.17:957][862]LogEditorTransaction: Undo Reset Data Table Row to Default Values
+[2018.08.24-17.26.30:860][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tower/Tower_Data_Table" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_Data_Table.uasset" SILENT=true
+[2018.08.24-17.26.30:868][386]LogSavePackage: Save=1.33ms
+[2018.08.24-17.26.30:868][386]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Tower_Data_Table7D7CAC3B4BEFBE1D9469F6A154A8693B.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_Data_Table.uasset'
+[2018.08.24-17.26.30:869][386]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_Data_Table.uasset
+[2018.08.24-17.26.33:295][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tower/Tower_Data_Table" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_Data_Table.uasset" SILENT=true
+[2018.08.24-17.26.33:302][676]LogSavePackage: Save=1.11ms
+[2018.08.24-17.26.33:302][676]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Tower_Data_TableA7C5B97D411A6506761160A77A1BCB15.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_Data_Table.uasset'
+[2018.08.24-17.26.33:303][676]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_Data_Table.uasset
+[2018.08.24-17.26.36:423][ 45]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.24-17.26.36:437][ 45]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.26.36:437][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.24-17.26.36:437][ 45]PIE: New page: PIE session: TopDownExampleMap (Aug 24, 2018, 9:26:36 AM)
+[2018.08.24-17.26.36:437][ 45]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.24-17.26.36:459][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022061s)
+[2018.08.24-17.26.36:460][ 45]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.24-17.26.36:460][ 45]LogPlayLevel: PIE: World Init took: (0.000785s)
+[2018.08.24-17.26.36:460][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.023128s)
+[2018.08.24-17.26.36:482][ 45]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.24-17.26.36:488][ 45]LogInit: FAudioDevice initialized.
+[2018.08.24-17.26.36:515][ 45]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.24-17.26.36:517][ 45]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.24-13.26.36
+[2018.08.24-17.26.36:517][ 45]LogWorld: Bringing up level for play took: 0.001979
+[2018.08.24-17.26.36:520][ 45]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.869
+[2018.08.24-17.26.36:520][ 45]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.26.39:988][458]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.26.40:028][458]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.26.40:769][542]LogEditorViewport: Clicking on Actor (LMB): Tower_BP_C (Tower_BP)
+[2018.08.24-17.27.02:581][130]BlueprintLog: New page: Compile Tower_BP
+[2018.08.24-17.27.03:470][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tower/Tower_BP" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset" SILENT=true
+[2018.08.24-17.27.03:533][187]LogSavePackage: Save=56.91ms
+[2018.08.24-17.27.03:533][187]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Tower_BP37CEBE3D44C738333B7FE68E53C52D30.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset'
+[2018.08.24-17.27.03:535][187]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset
+[2018.08.24-17.27.06:413][530]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.24-17.27.06:433][530]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.27.06:433][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.24-17.27.06:433][530]PIE: New page: PIE session: TopDownExampleMap (Aug 24, 2018, 9:27:06 AM)
+[2018.08.24-17.27.06:433][530]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.24-17.27.06:455][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021600s)
+[2018.08.24-17.27.06:456][530]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.24-17.27.06:456][530]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2018.08.24-17.27.06:456][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.022707s)
+[2018.08.24-17.27.06:477][530]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.24-17.27.06:482][530]LogInit: FAudioDevice initialized.
+[2018.08.24-17.27.06:511][530]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.24-17.27.06:513][530]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.24-13.27.06
+[2018.08.24-17.27.06:513][530]LogWorld: Bringing up level for play took: 0.001955
+[2018.08.24-17.27.06:516][530]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.875
+[2018.08.24-17.27.06:516][530]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.27.12:644][262]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.27.12:676][262]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.30.12:473][691]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\student.AII\Desktop\sphere.FBX)
+[2018.08.24-17.30.12:498][691]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.08.24-17.30.12:498][691]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.08.24-17.30.12:498][691]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.08.24-17.30.12:498][691]LogFbx: ItemName: Model, ItemCount : 1
+[2018.08.24-17.30.12:498][691]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.08.24-17.30.12:507][691]LogFbx: Loading FBX Scene from C:\Users\student.AII\Desktop\sphere.FBX
+[2018.08.24-17.30.12:518][691]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.24-17.30.13:997][691]LogFbx: Loading FBX Scene from C:\Users\student.AII\Desktop\sphere.FBX
+[2018.08.24-17.30.14:002][691]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.24-17.30.14:004][691]LogFbx: Warning: Triangulating static mesh Sphere
+[2018.08.24-17.30.14:017][691]LogStaticMesh: Building static mesh sphere...
+[2018.08.24-17.30.14:026][691]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/sphere.sphere
+[2018.08.24-17.30.14:039][691]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.24-17.30.23:880][179]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\student.AII\Desktop\pyramid.FBX)
+[2018.08.24-17.30.23:888][179]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.08.24-17.30.23:888][179]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.08.24-17.30.23:888][179]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.08.24-17.30.23:888][179]LogFbx: ItemName: Model, ItemCount : 1
+[2018.08.24-17.30.23:888][179]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.08.24-17.30.23:892][179]LogFbx: Loading FBX Scene from C:\Users\student.AII\Desktop\pyramid.FBX
+[2018.08.24-17.30.23:897][179]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.24-17.30.25:125][179]LogFbx: Loading FBX Scene from C:\Users\student.AII\Desktop\pyramid.FBX
+[2018.08.24-17.30.25:131][179]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.24-17.30.25:131][179]LogStaticMesh: Building static mesh pyramid...
+[2018.08.24-17.30.25:134][179]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/pyramid.pyramid
+[2018.08.24-17.30.25:142][179]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.24-17.30.30:189][747]LogSavePackage: Save=156.16ms
+[2018.08.24-17.30.30:189][747]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/TopDownExampleMap3C3EFEB24EAB3E30C82747858DF6206D.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.08.24-17.30.30:192][747]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.08.24-17.30.30:348][747]LogSavePackage: Save=131.61ms
+[2018.08.24-17.30.30:348][747]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/TopDownExampleMap_BuiltDataC04C04424181BA9BDA03C1AF72AB6FD8.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.08.24-17.30.30:349][747]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2018.08.24-17.30.43:068][215]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2018.08.24-17.30.43:333][216]LogRenderer: Reallocating scene render targets to support 1208x1024 Format 10 NumSamples 1 (Frame:1).
+[2018.08.24-17.30.46:424][565]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.08.24-17.30.46:425][565]LogMaterial: Warning: /Engine/Transient.Material_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.24-17.30.46:425][565]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2018.08.24-17.30.48:492][801]Cmd: TRANSACTION UNDO
+[2018.08.24-17.30.48:492][801]LogEditorTransaction: Undo Edit Mesh
+[2018.08.24-17.31.09:856][291]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.08.24-17.31.09:861][291]LogMaterial: Missing cached shader map for material WorldGridMaterial, compiling. 
+[2018.08.24-17.31.09:941][291]LogMaterial: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2018.08.24-17.31.10:019][291]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_26, compiling. 
+[2018.08.24-17.31.10:024][291]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2018.08.24-17.31.10:029][291]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2018.08.24-17.31.10:034][291]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_6, compiling. 
+[2018.08.24-17.31.10:039][291]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2018.08.24-17.31.48:138][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tower/Tower_Structure" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_Structure.uasset" SILENT=true
+[2018.08.24-17.31.48:146][622]LogSavePackage: Save=1.99ms
+[2018.08.24-17.31.48:146][622]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Tower_StructureD8C92F224018346F74C6FD988B66FCD1.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_Structure.uasset'
+[2018.08.24-17.31.48:148][622]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_Structure.uasset
+[2018.08.24-17.31.52:133][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/pyramid" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Geometry/Meshes/pyramid.uasset" SILENT=true
+[2018.08.24-17.31.52:144][ 81]LogSavePackage: Save=9.53ms
+[2018.08.24-17.31.52:144][ 81]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/pyramid5C12E2FC495955FDF137C48D3AE7C634.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Geometry/Meshes/pyramid.uasset'
+[2018.08.24-17.31.52:146][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Geometry/Meshes/pyramid.uasset
+[2018.08.24-17.31.54:185][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/sphere" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Geometry/Meshes/sphere.uasset" SILENT=true
+[2018.08.24-17.31.54:196][305]LogSavePackage: Save=9.66ms
+[2018.08.24-17.31.54:196][305]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/sphereD768D6474529E645FCA96F827C92CF00.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Geometry/Meshes/sphere.uasset'
+[2018.08.24-17.31.54:197][305]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Geometry/Meshes/sphere.uasset
+[2018.08.24-17.32.00:815][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tower/Tower_Data_Table" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_Data_Table.uasset" SILENT=true
+[2018.08.24-17.32.00:823][ 90]LogSavePackage: Save=1.09ms
+[2018.08.24-17.32.00:823][ 90]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Tower_Data_TableB8B93AEF484F1A3F9D3571A5ACEA7021.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_Data_Table.uasset'
+[2018.08.24-17.32.00:824][ 90]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_Data_Table.uasset
+[2018.08.24-17.32.07:995][939]BlueprintLog: New page: Compile Tower_BP
+[2018.08.24-17.32.08:832][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tower/Tower_BP" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset" SILENT=true
+[2018.08.24-17.32.08:896][988]LogSavePackage: Save=57.43ms
+[2018.08.24-17.32.08:896][988]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Tower_BP963C04DB42F95A9EA198A1801CFFB34A.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset'
+[2018.08.24-17.32.08:898][988]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset
+[2018.08.24-17.32.11:239][265]LogEditorViewport: Clicking on Actor (LMB): Tower_BP_C (Tower_BP)
+[2018.08.24-17.32.11:598][304]LogEditorViewport: Clicking on Actor (LMB): Tower_BP_C (Tower_BP)
+[2018.08.24-17.32.13:153][488]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.24-17.32.13:174][488]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.32.13:175][488]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.24-17.32.13:175][488]PIE: New page: PIE session: TopDownExampleMap (Aug 24, 2018, 9:32:13 AM)
+[2018.08.24-17.32.13:175][488]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.24-17.32.13:194][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019287s)
+[2018.08.24-17.32.13:195][488]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.24-17.32.13:195][488]LogPlayLevel: PIE: World Init took: (0.000795s)
+[2018.08.24-17.32.13:195][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.020377s)
+[2018.08.24-17.32.13:215][488]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.24-17.32.13:221][488]LogInit: FAudioDevice initialized.
+[2018.08.24-17.32.13:252][488]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.24-17.32.13:254][488]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.24-13.32.13
+[2018.08.24-17.32.13:255][488]LogWorld: Bringing up level for play took: 0.002018
+[2018.08.24-17.32.13:257][488]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.148
+[2018.08.24-17.32.13:258][488]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.32.16:619][888]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.32.16:652][888]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.32.17:422][974]LogEditorViewport: Clicking on Actor (LMB): Tower_BP_C (Tower_BP)
+[2018.08.24-17.32.49:468][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.08.24-17.33.34:450][ 57]BlueprintLog: New page: Compile AI_RUNNER
+[2018.08.24-17.33.35:299][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_RUNNER" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/AI/AI_RUNNER.uasset" SILENT=true
+[2018.08.24-17.33.35:333][115]LogSavePackage: Save=26.95ms
+[2018.08.24-17.33.35:333][115]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/AI_RUNNEREBBE06EC47A9F7D9A56D00AB8F00F2C9.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/AI/AI_RUNNER.uasset'
+[2018.08.24-17.33.35:335][115]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/AI/AI_RUNNER.uasset
+[2018.08.24-17.34.32:998][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tower/Tower_Data_Table" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_Data_Table.uasset" SILENT=true
+[2018.08.24-17.34.33:006][860]LogSavePackage: Save=1.12ms
+[2018.08.24-17.34.33:006][860]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Tower_Data_Table4CC3D8B648FB09A313CFDD97D3BA2877.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_Data_Table.uasset'
+[2018.08.24-17.34.33:008][860]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_Data_Table.uasset
+[2018.08.24-17.34.40:154][712]BlueprintLog: New page: Compile Tower_BP
+[2018.08.24-17.34.40:948][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tower/Tower_BP" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset" SILENT=true
+[2018.08.24-17.34.41:012][758]LogSavePackage: Save=57.42ms
+[2018.08.24-17.34.41:012][758]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Tower_BP947976554FFE520E6CFF9E98EB556E4C.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset'
+[2018.08.24-17.34.41:014][758]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset
+[2018.08.24-17.34.43:544][ 58]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.24-17.34.43:567][ 58]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.34.43:568][ 58]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.24-17.34.43:568][ 58]PIE: New page: PIE session: TopDownExampleMap (Aug 24, 2018, 9:34:43 AM)
+[2018.08.24-17.34.43:568][ 58]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.24-17.34.43:588][ 58]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019878s)
+[2018.08.24-17.34.43:588][ 58]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.24-17.34.43:589][ 58]LogPlayLevel: PIE: World Init took: (0.000824s)
+[2018.08.24-17.34.43:589][ 58]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.020988s)
+[2018.08.24-17.34.43:612][ 58]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.24-17.34.43:618][ 58]LogInit: FAudioDevice initialized.
+[2018.08.24-17.34.43:644][ 58]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.24-17.34.43:646][ 58]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.24-13.34.43
+[2018.08.24-17.34.43:646][ 58]LogWorld: Bringing up level for play took: 0.001992
+[2018.08.24-17.34.43:649][ 58]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.236
+[2018.08.24-17.34.43:649][ 58]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.34.47:019][459]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.34.47:050][459]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.35.28:931][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tower/Tower_Data_Table" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_Data_Table.uasset" SILENT=true
+[2018.08.24-17.35.28:938][443]LogSavePackage: Save=1.20ms
+[2018.08.24-17.35.28:939][443]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Tower_Data_Table5C60EE264CF4449A8B58188AAE0A1DF0.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_Data_Table.uasset'
+[2018.08.24-17.35.28:947][443]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_Data_Table.uasset
+[2018.08.24-17.35.41:824][969]BlueprintLog: New page: Compile Tower_BP
+[2018.08.24-17.35.42:785][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tower/Tower_BP" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset" SILENT=true
+[2018.08.24-17.35.42:849][ 34]LogSavePackage: Save=57.25ms
+[2018.08.24-17.35.42:849][ 34]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Tower_BP8001171D4D88B0635B185985447950E5.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset'
+[2018.08.24-17.35.42:851][ 34]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset
+[2018.08.24-17.35.46:161][427]LogEditorViewport: Clicking on Actor (LMB): Tower_BP_C (Tower_BP)
+[2018.08.24-17.35.48:528][704]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.24-17.35.48:550][704]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.35.48:551][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.24-17.35.48:551][704]PIE: New page: PIE session: TopDownExampleMap (Aug 24, 2018, 9:35:48 AM)
+[2018.08.24-17.35.48:551][704]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.24-17.35.48:571][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019837s)
+[2018.08.24-17.35.48:571][704]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.24-17.35.48:572][704]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2018.08.24-17.35.48:572][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.020926s)
+[2018.08.24-17.35.48:594][704]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.24-17.35.48:600][704]LogInit: FAudioDevice initialized.
+[2018.08.24-17.35.48:630][704]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.24-17.35.48:632][704]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.24-13.35.48
+[2018.08.24-17.35.48:632][704]LogWorld: Bringing up level for play took: 0.002011
+[2018.08.24-17.35.48:635][704]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.782
+[2018.08.24-17.35.48:635][704]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.35.52:695][188]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.35.52:725][188]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.36.30:273][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2018.08.24-17.36.31:542][833]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.24-17.36.32:066][891]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.24-17.36.32:632][957]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.24-17.36.34:605][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.08.24-17.36.36:174][371]LogEditorViewport: Clicking on Actor (LMB): Tower_BP_C (Tower_BP)
+[2018.08.24-17.36.43:411][211]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.24-17.36.43:425][211]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.36.43:425][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.24-17.36.43:426][211]PIE: New page: PIE session: TopDownExampleMap (Aug 24, 2018, 9:36:43 AM)
+[2018.08.24-17.36.43:426][211]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.24-17.36.43:446][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020731s)
+[2018.08.24-17.36.43:447][211]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.24-17.36.43:447][211]LogPlayLevel: PIE: World Init took: (0.000806s)
+[2018.08.24-17.36.43:447][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.021832s)
+[2018.08.24-17.36.43:467][211]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.24-17.36.43:473][211]LogInit: FAudioDevice initialized.
+[2018.08.24-17.36.43:504][211]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.24-17.36.43:506][211]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.24-13.36.43
+[2018.08.24-17.36.43:507][211]LogWorld: Bringing up level for play took: 0.002098
+[2018.08.24-17.36.43:509][211]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.09
+[2018.08.24-17.36.43:510][211]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.36.47:188][649]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.36.47:228][649]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.36.52:494][261]BlueprintLog: New page: Compile Tower_BP
+[2018.08.24-17.36.53:074][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tower/Tower_BP" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset" SILENT=true
+[2018.08.24-17.36.53:138][280]LogSavePackage: Save=57.24ms
+[2018.08.24-17.36.53:138][280]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Tower_BP791ECB814448AAC378531EB8C17FBA5C.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset'
+[2018.08.24-17.36.53:140][280]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset
+[2018.08.24-17.36.54:400][430]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.24-17.36.54:423][430]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.36.54:423][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.24-17.36.54:424][430]PIE: New page: PIE session: TopDownExampleMap (Aug 24, 2018, 9:36:54 AM)
+[2018.08.24-17.36.54:424][430]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.24-17.36.54:445][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021327s)
+[2018.08.24-17.36.54:446][430]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.24-17.36.54:446][430]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2018.08.24-17.36.54:446][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.022645s)
+[2018.08.24-17.36.54:473][430]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.24-17.36.54:478][430]LogInit: FAudioDevice initialized.
+[2018.08.24-17.36.54:508][430]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.24-17.36.54:510][430]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.24-13.36.54
+[2018.08.24-17.36.54:511][430]LogWorld: Bringing up level for play took: 0.002142
+[2018.08.24-17.36.54:513][430]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.094
+[2018.08.24-17.36.54:514][430]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.37.00:302][121]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.37.00:332][121]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.37.21:234][622]LogEditorViewport: Clicking on Actor (LMB): Tower_BP_C (Tower_BP)
+[2018.08.24-17.37.25:670][125]LogSavePackage: Save=157.19ms
+[2018.08.24-17.37.25:670][125]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/TopDownExampleMap7B3E859B43097046A8498D8A507DC8C0.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.08.24-17.37.25:673][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.08.24-17.37.25:790][125]LogSavePackage: Save=92.00ms
+[2018.08.24-17.37.25:790][125]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/TopDownExampleMap_BuiltData1CF844C34273CBF8728179BE2813973E.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.08.24-17.37.25:791][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2018.08.24-17.39.12:724][433]BlueprintLog: New page: Compile Tower_BP
+[2018.08.24-17.39.13:219][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tower/Tower_BP" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset" SILENT=true
+[2018.08.24-17.39.13:286][440]LogSavePackage: Save=58.73ms
+[2018.08.24-17.39.13:286][440]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Tower_BPF8AA565D461CEA3FCED30BA5C936878E.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset'
+[2018.08.24-17.39.13:287][440]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset
+[2018.08.24-17.39.15:006][641]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.24-17.39.15:028][641]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.39.15:028][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.24-17.39.15:028][641]PIE: New page: PIE session: TopDownExampleMap (Aug 24, 2018, 9:39:15 AM)
+[2018.08.24-17.39.15:028][641]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.24-17.39.15:049][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020774s)
+[2018.08.24-17.39.15:050][641]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.24-17.39.15:050][641]LogPlayLevel: PIE: World Init took: (0.000769s)
+[2018.08.24-17.39.15:050][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.021825s)
+[2018.08.24-17.39.15:074][641]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.24-17.39.15:079][641]LogInit: FAudioDevice initialized.
+[2018.08.24-17.39.15:109][641]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.24-17.39.15:112][641]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.24-13.39.15
+[2018.08.24-17.39.15:112][641]LogWorld: Bringing up level for play took: 0.001982
+[2018.08.24-17.39.15:115][641]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.313
+[2018.08.24-17.39.15:115][641]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.39.18:885][ 90]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.39.18:916][ 90]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.24-17.39.32:757][648]LogSavePackage: Save=161.29ms
+[2018.08.24-17.39.32:757][648]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/TopDownExampleMapFD2AD0B546CCC62A6BD56CAD3F5288D8.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.08.24-17.39.32:760][648]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.08.24-17.39.32:775][648]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.266
+[2018.08.24-17.39.47:079][354]BlueprintLog: New page: Compile Tower_BP
+[2018.08.24-17.39.47:569][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tower/Tower_BP" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset" SILENT=true
+[2018.08.24-17.39.47:634][362]LogSavePackage: Save=57.97ms
+[2018.08.24-17.39.47:634][362]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Tower_BP487FA0634FBF8142A5F4D480C95855B4.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset'
+[2018.08.24-17.39.47:635][362]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_BP.uasset
+[2018.08.24-17.40.04:640][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tower/Tower_Data_Table" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_Data_Table.uasset" SILENT=true
+[2018.08.24-17.40.04:648][399]LogSavePackage: Save=1.10ms
+[2018.08.24-17.40.04:648][399]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Tower_Data_TableEFCC59BF431C06C06C8F3493FC13D40C.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_Data_Table.uasset'
+[2018.08.24-17.40.04:649][399]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_Data_Table.uasset
+[2018.08.24-17.40.50:837][211]LogEditorViewport: Clicking Background
+[2018.08.24-17.40.51:264][262]LogEditorViewport: Clicking on Actor (LMB): Tower_BP_C (Tower_BP)
+[2018.08.24-17.41.58:717][596]BlueprintLog: New page: Compile Projectile
+[2018.08.24-17.41.59:431][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tower/Projectile" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Projectile.uasset" SILENT=true
+[2018.08.24-17.41.59:478][638]LogSavePackage: Save=38.97ms
+[2018.08.24-17.41.59:478][638]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/ProjectileAFBCC9054F6A94D624143B993D691D4E.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Projectile.uasset'
+[2018.08.24-17.41.59:479][638]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Projectile.uasset
+[2018.08.24-17.46.50:958][390]BlueprintLog: New page: Compile Projectile
+[2018.08.24-17.46.51:755][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tower/Projectile" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Projectile.uasset" SILENT=true
+[2018.08.24-17.46.51:806][445]LogSavePackage: Save=44.33ms
+[2018.08.24-17.46.51:806][445]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/ProjectileE4D798AB455B239FAE4509AFCDE22352.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Projectile.uasset'
+[2018.08.24-17.46.51:808][445]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Projectile.uasset
+[2018.08.24-17.47.59:684][ 37]BlueprintLog: New page: Compile Projectile
+[2018.08.24-17.48.00:332][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tower/Projectile" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Projectile.uasset" SILENT=true
+[2018.08.24-17.48.00:388][ 75]LogSavePackage: Save=45.79ms
+[2018.08.24-17.48.00:388][ 75]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Projectile575312374C1839960C934D92D44B35CB.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Projectile.uasset'
+[2018.08.24-17.48.00:390][ 75]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Projectile.uasset
+[2018.08.24-17.48.38:200][604]BlueprintLog: New page: Compile Projectile
+[2018.08.24-17.48.38:832][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tower/Projectile" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Projectile.uasset" SILENT=true
+[2018.08.24-17.48.38:885][639]LogSavePackage: Save=45.83ms
+[2018.08.24-17.48.38:885][639]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Projectile4D57F96740AB97056BD82FA65230B0F2.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Projectile.uasset'
+[2018.08.24-17.48.38:886][639]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Projectile.uasset
+[2018.08.24-17.50.45:542][ 53]Cmd: TRANSACTION UNDO
+[2018.08.24-17.50.45:542][ 53]LogEditorTransaction: Undo Edit Damage
+[2018.08.24-17.50.46:697][162]Cmd: TRANSACTION UNDO
+[2018.08.24-17.50.46:697][162]LogEditorTransaction: Undo Edit Damage
+[2018.08.24-17.50.58:435][536]BlueprintLog: New page: Compile AI_RUNNER
+[2018.08.24-17.50.59:845][664]BlueprintLog: New page: Compile Tower_BP
+[2018.08.24-17.51.01:127][770]BlueprintLog: New page: Compile Projectile
+[2018.08.24-17.51.03:062][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tower/Tower_Data_Table" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_Data_Table.uasset" SILENT=true
+[2018.08.24-17.51.03:072][963]LogSavePackage: Save=1.23ms
+[2018.08.24-17.51.03:072][963]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Tower_Data_TableA1BD8C7341474F3B3D26F6B17720EC3D.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_Data_Table.uasset'
+[2018.08.24-17.51.03:073][963]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_Data_Table.uasset
+[2018.08.24-17.51.14:895][349]LogSavePackage: Save=156.93ms
+[2018.08.24-17.51.14:895][349]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/TopDownExampleMap8D2FF2C34DCF9ADF73A0BF9A1EFE4A6F.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.08.24-17.51.14:898][349]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.08.24-17.51.15:017][349]LogSavePackage: Save=92.42ms
+[2018.08.24-17.51.15:017][349]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/TopDownExampleMap_BuiltData847553AA488B57E873B07D82BFEB362D.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.08.24-17.51.15:019][349]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2018.08.24-17.51.16:424][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tower/Tower_Data_Table" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_Data_Table.uasset" SILENT=true
+[2018.08.24-17.51.16:432][516]LogSavePackage: Save=1.17ms
+[2018.08.24-17.51.16:432][516]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Tower_Data_Table6C16F13B412B79E234EAC2A48ECEE233.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_Data_Table.uasset'
+[2018.08.24-17.51.16:434][516]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/tower/Tower_Data_Table.uasset
+[2018.08.24-17.53.27:358][ 17]BlueprintLog: New page: Compile AI_RUNNER
+[2018.08.24-17.53.30:288][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_RUNNER" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/AI/AI_RUNNER.uasset" SILENT=true
+[2018.08.24-17.53.30:321][327]LogSavePackage: Save=24.74ms
+[2018.08.24-17.53.30:321][327]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/AI_RUNNER5404525C4EC6D29086DAF68C1CCDB012.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/AI/AI_RUNNER.uasset'
+[2018.08.24-17.53.30:322][327]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/AI/AI_RUNNER.uasset
+[2018.08.24-17.53.51:515][326]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  Event BeginPlay  and was replaced as a Custom Event!
+[2018.08.24-17.55.20:817][117]LogUObjectArray: Warning: Other object in slot
+[2018.08.24-17.55.22:930][117]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.113 s
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: === Handled ensure: ===
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: 
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: Stack: 
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: [Callstack] 0x00000000D3FF2786 UE4Editor-Core.dll!FWindowsPlatformStackWalk::StackWalkAndDump() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\private\windows\windowsplatformstackwalk.cpp:200]
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: [Callstack] 0x00000000D3D9123A UE4Editor-Core.dll!FDebug::EnsureFailed() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:298]
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: [Callstack] 0x00000000D3DAB906 UE4Editor-Core.dll!FDebug::OptionallyLogFormattedEnsureMessageReturningFalse() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:425]
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: [Callstack] 0x00000000C58033F6 UE4Editor-UnrealEd.dll!FKismetDebugUtilities::GetWatchText() [d:\build\++ue4+release-4.18+compile\sync\engine\source\editor\unrealed\private\kismet2\kismetdebugutilities.cpp:1029]
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: [Callstack] 0x00000000C3DD03AB UE4Editor-BlueprintGraph.dll!UK2Node::GetPinHoverText() [d:\build\++ue4+release-4.18+compile\sync\engine\source\editor\blueprintgraph\private\k2node.cpp:1568]
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: [Callstack] 0x00000000C4463EBA UE4Editor-GraphEditor.dll!SGraphPin::GetTooltipText() [d:\build\++ue4+release-4.18+compile\sync\engine\source\editor\grapheditor\private\sgraphpin.cpp:1106]
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: [Callstack] 0x00000000C42F74AC UE4Editor-GraphEditor.dll!TMemberFunctionCaller<SGraphPin,FText (__cdecl SGraphPin::*)(void)const __ptr64>::operator()<>() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\public\delegates\delegateinstanceinterface.h:165]
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: [Callstack] 0x00000000C42FABF9 UE4Editor-GraphEditor.dll!UE4Tuple_Private::TTupleImpl<TIntegerSequence<unsigned int> >::ApplyAfter<TMemberFunctionCaller<SGraphPin,FText (__cdecl SGraphPin::*)(void)const __ptr64> >() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\public\templates\tuple.h:497]
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: [Callstack] 0x00000000C4428225 UE4Editor-GraphEditor.dll!TBaseSPMethodDelegateInstance<1,SGraphPin,0,FText __cdecl(void)>::Execute() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:327]
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: [Callstack] 0x00000000CCD47397 UE4Editor-Slate.dll!TBaseDelegate<FText>::Execute() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:537]
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: [Callstack] 0x00000000CCD4CE61 UE4Editor-Slate.dll!TAttribute<FText>::Get() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\public\misc\attribute.h:137]
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: [Callstack] 0x00000000CCF89913 UE4Editor-Slate.dll!SToolTip::IsEmpty() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\slate\private\widgets\stooltip.cpp:87]
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: [Callstack] 0x00000000CCDA3484 UE4Editor-Slate.dll!FSlateApplication::UpdateToolTip() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:3556]
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: [Callstack] 0x00000000CCD7B68C UE4Editor-Slate.dll!FSlateApplication::ProcessMouseMoveEvent() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5949]
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: [Callstack] 0x00000000CCD6D6B7 UE4Editor-Slate.dll!FSlateApplication::OnMouseMove() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5899]
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: [Callstack] 0x00000000D467E39E UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1763]
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: [Callstack] 0x00000000D4671A48 UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2171]
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: [Callstack] 0x00000000D46803EC UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:888]
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: [Callstack] 0x00000000D466D5A9 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:725]
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: [Callstack] 0x0000000077659BBD USER32.dll!UnknownFunction []
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: [Callstack] 0x00000000776598C2 USER32.dll!UnknownFunction []
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: [Callstack] 0x00000000D4681516 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:129]
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: [Callstack] 0x000000003F9F50C8 UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\launch\private\launchengineloop.cpp:3220]
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: [Callstack] 0x000000003FA05430 UE4Editor.exe!GuardedMain() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\launch\private\launch.cpp:166]
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: [Callstack] 0x000000003FA054AA UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:134]
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: [Callstack] 0x000000003FA12379 UE4Editor.exe!WinMain() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:210]
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: [Callstack] 0x000000003FA13D57 UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:253]
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: [Callstack] 0x00000000777559CD kernel32.dll!UnknownFunction []
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: [Callstack] 0x000000007788A561 ntdll.dll!UnknownFunction []
+[2018.08.24-17.55.22:930][117]LogOutputDevice: Error: 
+[2018.08.24-17.55.22:933][117]LogStats:                SubmitErrorReport -  0.000 s
