@@ -1624,3 +1624,996 @@ LogInit: Object subsystem initialized
 [2018.08.31-18.38.51:527][ 67]LogSavePackage: Save=60.16ms
 [2018.08.31-18.38.51:527][ 67]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWNFBEF9D39434610DE4D731E8B1D67154D.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
 [2018.08.31-18.38.51:528][ 67]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset
+[2018.08.31-18.40.21:601][ 80]LogSavePackage: Save=151.25ms
+[2018.08.31-18.40.21:601][ 80]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/TopDownExampleMap64DD0106454E51CCB287E28089F82C59.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.08.31-18.40.21:604][ 80]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.08.31-18.40.21:731][ 80]LogSavePackage: Save=100.13ms
+[2018.08.31-18.40.21:731][ 80]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/TopDownExampleMap_BuiltData59D087864BDB10D7827235A5A5EF3E70.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.08.31-18.40.21:733][ 80]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2018.08.31-18.40.40:788][521]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.31-18.40.40:802][521]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.40.40:803][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.31-18.40.40:803][521]PIE: New page: PIE session: TopDownExampleMap (Aug 31, 2018, 10:40:40 AM)
+[2018.08.31-18.40.40:803][521]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.31-18.40.40:823][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019733s)
+[2018.08.31-18.40.40:823][521]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.31-18.40.40:824][521]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2018.08.31-18.40.40:824][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.020899s)
+[2018.08.31-18.40.40:844][521]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.31-18.40.40:848][521]LogInit: FAudioDevice initialized.
+[2018.08.31-18.40.40:887][521]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.31-18.40.40:888][521]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.31-14.40.40
+[2018.08.31-18.40.40:889][521]LogWorld: Bringing up level for play took: 0.001614
+[2018.08.31-18.40.40:895][521]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.522
+[2018.08.31-18.40.40:896][521]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.40.41:284][555]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1380.000 Y=1130.000 Z=21.075] for [AI_RUNNER_C]
+[2018.08.31-18.40.52:911][949]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.40.52:968][949]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.41.00:457][758]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.31-18.41.00:471][758]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.41.00:471][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.31-18.41.00:471][758]PIE: New page: PIE session: TopDownExampleMap (Aug 31, 2018, 10:41:00 AM)
+[2018.08.31-18.41.00:471][758]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.31-18.41.00:487][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015872s)
+[2018.08.31-18.41.00:488][758]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.31-18.41.00:488][758]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2018.08.31-18.41.00:488][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017009s)
+[2018.08.31-18.41.00:507][758]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.31-18.41.00:511][758]LogInit: FAudioDevice initialized.
+[2018.08.31-18.41.00:550][758]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.31-18.41.00:552][758]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.31-14.41.00
+[2018.08.31-18.41.00:552][758]LogWorld: Bringing up level for play took: 0.001517
+[2018.08.31-18.41.00:558][758]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.186
+[2018.08.31-18.41.00:559][758]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.41.00:953][793]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1380.000 Y=1130.000 Z=20.889] for [AI_RUNNER_C]
+[2018.08.31-18.41.11:654][ 77]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.41.11:708][ 77]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.41.15:222][437]LogRenderer: Reallocating scene render targets to support 1292x808 Format 10 NumSamples 1 (Frame:3603).
+[2018.08.31-18.41.26:293][719]BlueprintLog: New page: Compile PLAYER_PAWN
+[2018.08.31-18.41.27:054][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2018.08.31-18.41.27:122][745]LogSavePackage: Save=60.05ms
+[2018.08.31-18.41.27:122][745]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWN30AB71CA43B20AD5021CF9BC785F535F.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2018.08.31-18.41.27:124][745]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset
+[2018.08.31-18.41.38:611][ 81]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.31-18.41.38:642][ 81]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.41.38:642][ 81]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.31-18.41.38:642][ 81]PIE: New page: PIE session: TopDownExampleMap (Aug 31, 2018, 10:41:38 AM)
+[2018.08.31-18.41.38:642][ 81]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.31-18.41.38:660][ 81]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017904s)
+[2018.08.31-18.41.38:661][ 81]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.31-18.41.38:661][ 81]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2018.08.31-18.41.38:661][ 81]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.019023s)
+[2018.08.31-18.41.38:680][ 81]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.31-18.41.38:684][ 81]LogInit: FAudioDevice initialized.
+[2018.08.31-18.41.38:719][ 81]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.31-18.41.38:720][ 81]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.31-14.41.38
+[2018.08.31-18.41.38:721][ 81]LogWorld: Bringing up level for play took: 0.001494
+[2018.08.31-18.41.38:727][ 81]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.356
+[2018.08.31-18.41.38:727][ 81]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.41.39:108][114]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1380.000 Y=1130.000 Z=20.382] for [AI_RUNNER_C]
+[2018.08.31-18.41.49:767][360]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.41.49:807][360]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.42.06:309][581]BlueprintLog: New page: Compile PLAYER_PAWN
+[2018.08.31-18.42.07:250][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2018.08.31-18.42.07:316][622]LogSavePackage: Save=59.81ms
+[2018.08.31-18.42.07:316][622]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWNF986695D4AC5B48C9609509911B2E03B.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2018.08.31-18.42.07:318][622]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset
+[2018.08.31-18.42.09:680][901]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.31-18.42.09:697][901]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.42.09:697][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.31-18.42.09:697][901]PIE: New page: PIE session: TopDownExampleMap (Aug 31, 2018, 10:42:09 AM)
+[2018.08.31-18.42.09:697][901]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.31-18.42.09:713][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016030s)
+[2018.08.31-18.42.09:714][901]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.31-18.42.09:714][901]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2018.08.31-18.42.09:714][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017080s)
+[2018.08.31-18.42.09:734][901]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.31-18.42.09:737][901]LogInit: FAudioDevice initialized.
+[2018.08.31-18.42.09:773][901]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.31-18.42.09:774][901]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.31-14.42.09
+[2018.08.31-18.42.09:775][901]LogWorld: Bringing up level for play took: 0.001455
+[2018.08.31-18.42.09:781][901]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.588
+[2018.08.31-18.42.09:781][901]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.42.10:178][936]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1380.000 Y=1130.000 Z=19.992] for [AI_RUNNER_C]
+[2018.08.31-18.42.11:486][ 93]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.42.11:528][ 93]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.42.14:069][350]Cmd: TRANSACTION UNDO
+[2018.08.31-18.42.14:069][350]LogEditorTransaction: Undo Modify Component(s)
+[2018.08.31-18.42.24:437][468]BlueprintLog: New page: Compile PLAYER_PAWN
+[2018.08.31-18.42.26:130][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2018.08.31-18.42.26:200][586]LogSavePackage: Save=60.02ms
+[2018.08.31-18.42.26:200][586]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWN1000E5124112FA0B21441982DBFA16F2.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2018.08.31-18.42.26:202][586]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset
+[2018.08.31-18.42.27:736][757]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.31-18.42.27:753][757]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.42.27:753][757]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.31-18.42.27:753][757]PIE: New page: PIE session: TopDownExampleMap (Aug 31, 2018, 10:42:27 AM)
+[2018.08.31-18.42.27:753][757]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.31-18.42.27:769][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016145s)
+[2018.08.31-18.42.27:770][757]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.31-18.42.27:770][757]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2018.08.31-18.42.27:770][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017262s)
+[2018.08.31-18.42.27:791][757]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.31-18.42.27:795][757]LogInit: FAudioDevice initialized.
+[2018.08.31-18.42.27:829][757]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.31-18.42.27:831][757]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.31-14.42.27
+[2018.08.31-18.42.27:831][757]LogWorld: Bringing up level for play took: 0.001444
+[2018.08.31-18.42.27:837][757]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.531
+[2018.08.31-18.42.27:837][757]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.42.28:230][792]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1380.000 Y=1130.000 Z=22.077] for [AI_RUNNER_C]
+[2018.08.31-18.42.37:857][941]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.42.37:900][941]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.42.46:366][899]BlueprintLog: New page: Compile PLAYER_PAWN
+[2018.08.31-18.42.46:991][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2018.08.31-18.42.47:058][912]LogSavePackage: Save=59.89ms
+[2018.08.31-18.42.47:058][912]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWN4B71E3B14BF68B2387551689491E8624.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2018.08.31-18.42.47:060][912]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset
+[2018.08.31-18.42.48:231][ 43]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.31-18.42.48:247][ 43]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.42.48:248][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.31-18.42.48:248][ 43]PIE: New page: PIE session: TopDownExampleMap (Aug 31, 2018, 10:42:48 AM)
+[2018.08.31-18.42.48:248][ 43]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.31-18.42.48:264][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016387s)
+[2018.08.31-18.42.48:265][ 43]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.31-18.42.48:265][ 43]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2018.08.31-18.42.48:265][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017601s)
+[2018.08.31-18.42.48:284][ 43]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.31-18.42.48:288][ 43]LogInit: FAudioDevice initialized.
+[2018.08.31-18.42.48:326][ 43]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.31-18.42.48:328][ 43]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.31-14.42.48
+[2018.08.31-18.42.48:328][ 43]LogWorld: Bringing up level for play took: 0.001472
+[2018.08.31-18.42.48:334][ 43]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.033
+[2018.08.31-18.42.48:334][ 43]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.42.48:727][ 78]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1380.000 Y=1130.000 Z=21.111] for [AI_RUNNER_C]
+[2018.08.31-18.42.50:668][311]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.42.50:711][311]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.43.12:401][816]BlueprintLog: New page: Compile PLAYER_PAWN
+[2018.08.31-18.43.12:900][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2018.08.31-18.43.12:967][817]LogSavePackage: Save=60.52ms
+[2018.08.31-18.43.12:967][817]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWN3F18202844DDF1F5A5BEDB83CEC1A49B.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2018.08.31-18.43.12:969][817]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset
+[2018.08.31-18.43.14:582][990]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.31-18.43.14:599][990]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.43.14:599][990]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.31-18.43.14:599][990]PIE: New page: PIE session: TopDownExampleMap (Aug 31, 2018, 10:43:14 AM)
+[2018.08.31-18.43.14:599][990]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.31-18.43.14:615][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015924s)
+[2018.08.31-18.43.14:616][990]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.31-18.43.14:616][990]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2018.08.31-18.43.14:616][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017027s)
+[2018.08.31-18.43.14:637][990]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.31-18.43.14:641][990]LogInit: FAudioDevice initialized.
+[2018.08.31-18.43.14:679][990]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.31-18.43.14:681][990]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.31-14.43.14
+[2018.08.31-18.43.14:681][990]LogWorld: Bringing up level for play took: 0.001458
+[2018.08.31-18.43.14:687][990]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.321
+[2018.08.31-18.43.14:687][990]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.43.15:080][ 25]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1380.000 Y=1130.000 Z=19.940] for [AI_RUNNER_C]
+[2018.08.31-18.43.20:014][617]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.43.20:058][617]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.43.41:177][884]BlueprintLog: New page: Compile PLAYER_PAWN
+[2018.08.31-18.43.41:866][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2018.08.31-18.43.41:933][903]LogSavePackage: Save=60.48ms
+[2018.08.31-18.43.41:933][903]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWN8FE0F77B48D9B93A81199FA27EAA451F.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2018.08.31-18.43.41:935][903]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset
+[2018.08.31-18.43.44:182][148]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.31-18.43.44:200][148]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.43.44:200][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.31-18.43.44:200][148]PIE: New page: PIE session: TopDownExampleMap (Aug 31, 2018, 10:43:44 AM)
+[2018.08.31-18.43.44:200][148]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.31-18.43.44:216][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015963s)
+[2018.08.31-18.43.44:217][148]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.31-18.43.44:217][148]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2018.08.31-18.43.44:217][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017049s)
+[2018.08.31-18.43.44:236][148]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.31-18.43.44:240][148]LogInit: FAudioDevice initialized.
+[2018.08.31-18.43.44:278][148]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.31-18.43.44:279][148]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.31-14.43.44
+[2018.08.31-18.43.44:280][148]LogWorld: Bringing up level for play took: 0.001470
+[2018.08.31-18.43.44:286][148]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.079
+[2018.08.31-18.43.44:286][148]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.43.44:683][184]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1380.000 Y=1130.000 Z=18.341] for [AI_RUNNER_C]
+[2018.08.31-18.43.46:683][424]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.43.46:723][424]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.44.03:128][257]BlueprintLog: New page: Compile PLAYER_PAWN
+[2018.08.31-18.44.04:388][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2018.08.31-18.44.04:455][336]LogSavePackage: Save=60.01ms
+[2018.08.31-18.44.04:455][336]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWNE47756C747D5E3B7B414378E112D2F9F.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2018.08.31-18.44.04:457][336]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset
+[2018.08.31-18.44.05:822][494]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.31-18.44.05:839][494]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.44.05:839][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.31-18.44.05:840][494]PIE: New page: PIE session: TopDownExampleMap (Aug 31, 2018, 10:44:05 AM)
+[2018.08.31-18.44.05:840][494]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.31-18.44.05:856][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016474s)
+[2018.08.31-18.44.05:857][494]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.31-18.44.05:857][494]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2018.08.31-18.44.05:857][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017575s)
+[2018.08.31-18.44.05:877][494]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.31-18.44.05:881][494]LogInit: FAudioDevice initialized.
+[2018.08.31-18.44.05:915][494]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.31-18.44.05:916][494]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.31-14.44.05
+[2018.08.31-18.44.05:917][494]LogWorld: Bringing up level for play took: 0.001483
+[2018.08.31-18.44.05:923][494]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.441
+[2018.08.31-18.44.05:923][494]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.44.06:319][530]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1380.000 Y=1130.000 Z=20.335] for [AI_RUNNER_C]
+[2018.08.31-18.44.16:435][744]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.44.16:478][744]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.44.20:253][140]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.31-18.44.26:711][893]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.31-18.44.46:830][209]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.31-18.44.58:818][535]BlueprintLog: New page: Compile PLAYER_PAWN
+[2018.08.31-18.44.59:395][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2018.08.31-18.44.59:462][536]LogSavePackage: Save=60.42ms
+[2018.08.31-18.44.59:462][536]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWN109B74914DA066144822B8B5E847D1DF.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2018.08.31-18.44.59:464][536]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset
+[2018.08.31-18.44.59:695][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2018.08.31-18.44.59:761][550]LogSavePackage: Save=59.87ms
+[2018.08.31-18.44.59:761][550]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWN89E2485A4415B4653A2372A4BC3AC7B6.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2018.08.31-18.44.59:762][550]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset
+[2018.08.31-18.45.05:795][243]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.31-18.45.05:811][243]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.45.05:811][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.31-18.45.05:811][243]PIE: New page: PIE session: TopDownExampleMap (Aug 31, 2018, 10:45:05 AM)
+[2018.08.31-18.45.05:811][243]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.31-18.45.05:831][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019335s)
+[2018.08.31-18.45.05:831][243]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.31-18.45.05:831][243]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2018.08.31-18.45.05:832][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.020392s)
+[2018.08.31-18.45.05:877][243]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.31-18.45.05:881][243]LogInit: FAudioDevice initialized.
+[2018.08.31-18.45.05:921][243]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.31-18.45.05:922][243]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.31-14.45.05
+[2018.08.31-18.45.05:923][243]LogWorld: Bringing up level for play took: 0.001512
+[2018.08.31-18.45.05:929][243]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.432
+[2018.08.31-18.45.05:929][243]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.45.06:291][275]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1380.000 Y=1130.000 Z=20.813] for [AI_RUNNER_C]
+[2018.08.31-18.45.09:208][625]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.45.09:248][625]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.45.11:289][832]Cmd: TRANSACTION UNDO
+[2018.08.31-18.45.11:289][832]LogEditorTransaction: Undo Reset Location
+[2018.08.31-18.45.11:918][892]Cmd: TRANSACTION UNDO
+[2018.08.31-18.45.11:918][892]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2018.08.31-18.45.20:526][792]BlueprintLog: New page: Compile PLAYER_PAWN
+[2018.08.31-18.45.21:072][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2018.08.31-18.45.21:139][798]LogSavePackage: Save=60.13ms
+[2018.08.31-18.45.21:139][798]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWN60C640EC4FB1B9A2D5A212BF1DB3D340.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2018.08.31-18.45.21:141][798]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset
+[2018.08.31-18.45.26:848][473]LogEditorTransaction: Undo Modify Component(s)
+[2018.08.31-18.45.28:858][650]BlueprintLog: New page: Compile PLAYER_PAWN
+[2018.08.31-18.45.29:353][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2018.08.31-18.45.29:420][651]LogSavePackage: Save=60.18ms
+[2018.08.31-18.45.29:420][651]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWN01FB8B0E43CEEAA7B1466884A0533EAB.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2018.08.31-18.45.29:422][651]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset
+[2018.08.31-18.45.31:397][852]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.31-18.45.31:413][852]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.45.31:413][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.31-18.45.31:413][852]PIE: New page: PIE session: TopDownExampleMap (Aug 31, 2018, 10:45:31 AM)
+[2018.08.31-18.45.31:413][852]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.31-18.45.31:429][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016295s)
+[2018.08.31-18.45.31:430][852]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.31-18.45.31:430][852]LogPlayLevel: PIE: World Init took: (0.000694s)
+[2018.08.31-18.45.31:430][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017271s)
+[2018.08.31-18.45.31:473][852]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.31-18.45.31:477][852]LogInit: FAudioDevice initialized.
+[2018.08.31-18.45.31:511][852]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.31-18.45.31:513][852]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.31-14.45.31
+[2018.08.31-18.45.31:513][852]LogWorld: Bringing up level for play took: 0.001523
+[2018.08.31-18.45.31:519][852]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.84
+[2018.08.31-18.45.31:520][852]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.45.31:896][885]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1380.000 Y=1130.000 Z=19.404] for [AI_RUNNER_C]
+[2018.08.31-18.45.36:429][429]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.45.36:470][429]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.45.48:774][931]LogEditorTransaction: Undo Modify Component(s)
+[2018.08.31-18.45.49:011][954]LogEditorTransaction: Undo Modify Component(s)
+[2018.08.31-18.45.49:209][966]LogEditorTransaction: Undo Rotate Actors
+[2018.08.31-18.45.49:410][984]LogEditorTransaction: Undo Animatable Property Changed
+[2018.08.31-18.45.50:352][ 74]LogEditorTransaction: Undo Move Actors
+[2018.08.31-18.45.50:542][ 93]LogEditorTransaction: Undo Animatable Property Changed
+[2018.08.31-18.45.50:751][114]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.31-18.45.50:960][135]LogEditorTransaction: Undo Edit Field Of View
+[2018.08.31-18.45.51:172][154]LogEditorTransaction: Undo Edit Field Of View
+[2018.08.31-18.45.51:398][176]LogEditorTransaction: Undo Edit Field Of View
+[2018.08.31-18.45.51:583][192]LogEditorTransaction: Undo Modify Component(s)
+[2018.08.31-18.45.51:796][211]LogEditorTransaction: Undo Modify Component(s)
+[2018.08.31-18.45.52:018][231]LogEditorTransaction: Undo Modify Component(s)
+[2018.08.31-18.45.52:241][251]LogEditorTransaction: Undo Modify Component(s)
+[2018.08.31-18.45.52:503][275]LogEditorTransaction: Undo Modify Component(s)
+[2018.08.31-18.45.52:793][302]LogEditorTransaction: Undo Modify Component(s)
+[2018.08.31-18.45.53:170][339]LogEditorTransaction: Undo Modify Component(s)
+[2018.08.31-18.45.53:625][384]LogEditorTransaction: Undo Modify Component(s)
+[2018.08.31-18.45.53:872][408]LogEditorTransaction: Undo Modify Component(s)
+[2018.08.31-18.45.57:167][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2018.08.31-18.45.57:235][705]LogSavePackage: Save=60.48ms
+[2018.08.31-18.45.57:235][705]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWN8F1FC474436E3C8CC8469A9C76F2EC28.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2018.08.31-18.45.57:237][705]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset
+[2018.08.31-18.45.58:589][851]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.31-18.45.58:605][851]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.45.58:605][851]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.31-18.45.58:606][851]PIE: New page: PIE session: TopDownExampleMap (Aug 31, 2018, 10:45:58 AM)
+[2018.08.31-18.45.58:606][851]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.31-18.45.58:622][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015994s)
+[2018.08.31-18.45.58:623][851]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.31-18.45.58:623][851]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2018.08.31-18.45.58:623][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016990s)
+[2018.08.31-18.45.58:645][851]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.31-18.45.58:649][851]LogInit: FAudioDevice initialized.
+[2018.08.31-18.45.58:686][851]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.31-18.45.58:688][851]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.31-14.45.58
+[2018.08.31-18.45.58:688][851]LogWorld: Bringing up level for play took: 0.001487
+[2018.08.31-18.45.58:694][851]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.336
+[2018.08.31-18.45.58:695][851]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.45.59:087][886]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1380.000 Y=1130.000 Z=19.939] for [AI_RUNNER_C]
+[2018.08.31-18.46.02:179][257]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.46.02:223][257]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-18.46.05:681][580]LogSavePackage: Save=152.96ms
+[2018.08.31-18.46.05:681][580]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/TopDownExampleMapA4AF2E6043EEBF7FC6F2F5B924F638FC.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.08.31-18.46.05:684][580]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.08.31-18.46.05:807][580]LogSavePackage: Save=92.83ms
+[2018.08.31-18.46.05:807][580]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/TopDownExampleMap_BuiltData37FE43C548A2CE5368ECF7B88719B58B.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.08.31-18.46.05:810][580]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2018.08.31-18.49.50:075][723]BlueprintLog: New page: Compile PLAYER_PAWN
+[2018.08.31-18.49.50:509][731]BlueprintLog: New page: Compile PLAYER_PAWN
+[2018.08.31-18.49.51:203][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2018.08.31-18.49.51:278][765]LogSavePackage: Save=67.10ms
+[2018.08.31-18.49.51:278][765]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWN9FC24E134F775591C6EE0AA363788A33.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2018.08.31-18.49.51:281][765]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset
+[2018.08.31-18.50.39:210][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2018.08.31-18.50.39:283][709]LogSavePackage: Save=65.40ms
+[2018.08.31-18.50.39:283][709]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWN28BAA8084A73A18637A932BBB7B728C6.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2018.08.31-18.50.39:285][709]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset
+[2018.08.31-18.51.28:048][599]LogSavePackage: Save=156.68ms
+[2018.08.31-18.51.28:048][599]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/TopDownExampleMapEB17879948C5990022132E9C660EF23B.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.08.31-18.51.28:052][599]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.08.31-18.51.28:071][599]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.278
+[2018.08.31-18.51.28:073][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/CAMERA_CLAMP_ACTOR" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/CAMERA_CLAMP_ACTOR.uasset" SILENT=true
+[2018.08.31-18.51.28:080][599]LogSavePackage: Save=6.67ms
+[2018.08.31-18.51.28:080][599]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/CAMERA_CLAMP_ACTOR8E379C3B465ACA9B2EC9438846B78F4E.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/CAMERA_CLAMP_ACTOR.uasset'
+[2018.08.31-18.51.28:082][599]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/CAMERA_CLAMP_ACTOR.uasset
+[2018.08.31-18.51.36:326][541]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.31-18.52.25:495][922]LogSlate: Took 0.003922 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.08.31-18.54.15:811][333]BlueprintLog: New page: Compile CAMERA_CLAMP_ACTOR
+[2018.08.31-18.54.16:568][381]BlueprintLog: New page: Compile CAMERA_CLAMP_ACTOR
+[2018.08.31-18.54.17:269][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/CAMERA_CLAMP_ACTOR" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/CAMERA_CLAMP_ACTOR.uasset" SILENT=true
+[2018.08.31-18.54.17:286][424]LogSavePackage: Save=7.00ms
+[2018.08.31-18.54.17:286][424]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/CAMERA_CLAMP_ACTOR90E437FA4EE6819CB7192A8DF71A7CB5.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/CAMERA_CLAMP_ACTOR.uasset'
+[2018.08.31-18.54.17:288][424]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/CAMERA_CLAMP_ACTOR.uasset
+[2018.08.31-18.54.39:807][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.08.31-18.54.42:999][434]Cmd: TRANSACTION UNDO
+[2018.08.31-18.54.42:999][434]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.31-18.54.43:009][434]Cmd: ACTOR SELECT ALL
+[2018.08.31-18.54.44:747][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.08.31-18.54.45:019][598]Cmd: TRANSACTION UNDO
+[2018.08.31-18.54.45:019][598]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.31-18.54.45:576][641]Cmd: TRANSACTION UNDO
+[2018.08.31-18.54.45:576][641]LogEditorTransaction: Undo Select All
+[2018.08.31-18.55.18:039][915]LogSavePackage: Save=153.11ms
+[2018.08.31-18.55.18:039][915]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/TopDownExampleMap21820AFD4C204AE5723F86BAD8AFDB5E.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.08.31-18.55.18:043][915]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.08.31-18.55.18:062][915]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.266
+[2018.08.31-19.17.59:135][302]Cmd: TRANSACTION UNDO
+[2018.08.31-19.17.59:135][302]LogEditorTransaction: Undo Move Actors
+[2018.08.31-19.18.07:012][683]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.31-19.18.12:239][260]Cmd: TRANSACTION UNDO
+[2018.08.31-19.18.12:239][260]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.31-19.18.12:599][287]Cmd: TRANSACTION UNDO
+[2018.08.31-19.18.12:599][287]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.31-19.18.27:062][955]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.31-19.18.27:647][ 21]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.31-19.18.28:027][ 65]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.31-19.18.57:514][265]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.31-19.18.57:532][265]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.18.57:532][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.31-19.18.57:533][265]PIE: New page: PIE session: TopDownExampleMap (Aug 31, 2018, 11:18:57 AM)
+[2018.08.31-19.18.57:533][265]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.31-19.18.57:553][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020130s)
+[2018.08.31-19.18.57:554][265]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.31-19.18.57:554][265]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2018.08.31-19.18.57:554][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.021317s)
+[2018.08.31-19.18.57:578][265]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.31-19.18.57:583][265]LogInit: FAudioDevice initialized.
+[2018.08.31-19.18.57:619][265]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.31-19.18.57:621][265]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.31-15.18.57
+[2018.08.31-19.18.57:621][265]LogWorld: Bringing up level for play took: 0.001544
+[2018.08.31-19.18.57:627][265]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.896
+[2018.08.31-19.18.57:627][265]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.18.58:015][303]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1380.000 Y=1130.000 Z=18.270] for [AI_RUNNER_C]
+[2018.08.31-19.19.01:658][740]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.19.01:715][740]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.19.04:151][ 25]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.31-19.19.04:162][ 25]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.19.04:162][ 25]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.31-19.19.04:162][ 25]PIE: New page: PIE session: TopDownExampleMap (Aug 31, 2018, 11:19:04 AM)
+[2018.08.31-19.19.04:163][ 25]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.31-19.19.04:182][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019072s)
+[2018.08.31-19.19.04:182][ 25]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.31-19.19.04:183][ 25]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2018.08.31-19.19.04:183][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.020131s)
+[2018.08.31-19.19.04:203][ 25]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.31-19.19.04:207][ 25]LogInit: FAudioDevice initialized.
+[2018.08.31-19.19.04:245][ 25]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.31-19.19.04:246][ 25]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.31-15.19.04
+[2018.08.31-19.19.04:247][ 25]LogWorld: Bringing up level for play took: 0.001495
+[2018.08.31-19.19.04:252][ 25]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.271
+[2018.08.31-19.19.04:253][ 25]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.19.04:646][ 65]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1380.000 Y=1130.000 Z=21.384] for [AI_RUNNER_C]
+[2018.08.31-19.19.07:555][414]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.19.07:596][414]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.19.27:257][673]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.31-19.19.27:268][673]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.19.27:269][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.31-19.19.27:269][673]PIE: New page: PIE session: TopDownExampleMap (Aug 31, 2018, 11:19:27 AM)
+[2018.08.31-19.19.27:269][673]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.31-19.19.27:290][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021136s)
+[2018.08.31-19.19.27:291][673]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.31-19.19.27:291][673]LogPlayLevel: PIE: World Init took: (0.000905s)
+[2018.08.31-19.19.27:291][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.022318s)
+[2018.08.31-19.19.27:339][673]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.31-19.19.27:343][673]LogInit: FAudioDevice initialized.
+[2018.08.31-19.19.27:376][673]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.31-19.19.27:378][673]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.31-15.19.27
+[2018.08.31-19.19.27:378][673]LogWorld: Bringing up level for play took: 0.001567
+[2018.08.31-19.19.27:384][673]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.859
+[2018.08.31-19.19.27:384][673]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.19.27:752][710]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1380.000 Y=1130.000 Z=21.198] for [AI_RUNNER_C]
+[2018.08.31-19.19.30:053][986]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.19.30:098][986]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.20.15:752][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2018.08.31-19.20.15:825][338]LogSavePackage: Save=65.17ms
+[2018.08.31-19.20.15:825][338]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWN40C868AC46B6D3229C868C95A74AFA8F.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2018.08.31-19.20.15:827][338]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset
+[2018.08.31-19.20.17:619][553]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.31-19.20.17:631][553]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.20.17:631][553]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.31-19.20.17:631][553]PIE: New page: PIE session: TopDownExampleMap (Aug 31, 2018, 11:20:17 AM)
+[2018.08.31-19.20.17:631][553]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.31-19.20.17:652][553]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020516s)
+[2018.08.31-19.20.17:652][553]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.31-19.20.17:652][553]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2018.08.31-19.20.17:653][553]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.021705s)
+[2018.08.31-19.20.17:676][553]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.31-19.20.17:680][553]LogInit: FAudioDevice initialized.
+[2018.08.31-19.20.17:716][553]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.31-19.20.17:718][553]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.31-15.20.17
+[2018.08.31-19.20.17:718][553]LogWorld: Bringing up level for play took: 0.001612
+[2018.08.31-19.20.17:724][553]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.804
+[2018.08.31-19.20.17:724][553]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.20.18:115][592]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1380.000 Y=1130.000 Z=20.905] for [AI_RUNNER_C]
+[2018.08.31-19.20.21:782][ 32]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.20.21:836][ 32]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.21.07:460][463]BlueprintLog: New page: Compile PLAYER_PAWN
+[2018.08.31-19.21.08:712][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2018.08.31-19.21.08:784][548]LogSavePackage: Save=64.83ms
+[2018.08.31-19.21.08:784][548]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWN61405D5D4AE1910C12A334BACB04FF3C.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2018.08.31-19.21.08:786][548]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset
+[2018.08.31-19.21.10:335][730]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.31-19.21.10:365][730]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.21.10:365][730]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.31-19.21.10:365][730]PIE: New page: PIE session: TopDownExampleMap (Aug 31, 2018, 11:21:10 AM)
+[2018.08.31-19.21.10:365][730]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.31-19.21.10:385][730]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019774s)
+[2018.08.31-19.21.10:386][730]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.31-19.21.10:386][730]LogPlayLevel: PIE: World Init took: (0.000869s)
+[2018.08.31-19.21.10:386][730]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.020932s)
+[2018.08.31-19.21.10:405][730]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.31-19.21.10:409][730]LogInit: FAudioDevice initialized.
+[2018.08.31-19.21.10:444][730]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.31-19.21.10:446][730]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.31-15.21.10
+[2018.08.31-19.21.10:446][730]LogWorld: Bringing up level for play took: 0.001540
+[2018.08.31-19.21.10:452][730]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.077
+[2018.08.31-19.21.10:452][730]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.21.10:828][768]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1380.000 Y=1130.000 Z=21.562] for [AI_RUNNER_C]
+[2018.08.31-19.21.22:362][129]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.21.22:405][129]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.21.28:331][814]Cmd: TRANSACTION UNDO
+[2018.08.31-19.21.28:331][814]LogEditorTransaction: Undo Modify Component(s)
+[2018.08.31-19.21.30:553][ 63]BlueprintLog: New page: Compile PLAYER_PAWN
+[2018.08.31-19.21.31:291][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2018.08.31-19.21.31:362][ 83]LogSavePackage: Save=65.04ms
+[2018.08.31-19.21.31:363][ 83]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWNE4A021A443F4F6B39C792A86C260687F.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2018.08.31-19.21.31:364][ 83]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset
+[2018.08.31-19.21.33:964][387]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.31-19.21.33:979][387]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.21.33:979][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.31-19.21.33:979][387]PIE: New page: PIE session: TopDownExampleMap (Aug 31, 2018, 11:21:33 AM)
+[2018.08.31-19.21.33:979][387]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.31-19.21.33:998][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019343s)
+[2018.08.31-19.21.33:999][387]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.31-19.21.33:999][387]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2018.08.31-19.21.33:999][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.020404s)
+[2018.08.31-19.21.34:020][387]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.31-19.21.34:025][387]LogInit: FAudioDevice initialized.
+[2018.08.31-19.21.34:061][387]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.31-19.21.34:063][387]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.31-15.21.34
+[2018.08.31-19.21.34:063][387]LogWorld: Bringing up level for play took: 0.001542
+[2018.08.31-19.21.34:069][387]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.459
+[2018.08.31-19.21.34:069][387]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.21.34:462][427]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1380.000 Y=1130.000 Z=19.581] for [AI_RUNNER_C]
+[2018.08.31-19.21.36:462][667]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.21.36:506][667]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.22.30:049][636]LogSavePackage: Save=156.64ms
+[2018.08.31-19.22.30:049][636]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/TopDownExampleMap_Auto33EE720164029F639A659899FBFF13EA3.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto3.umap'
+[2018.08.31-19.22.30:051][636]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto3.umap
+[2018.08.31-19.22.30:053][636]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.197
+[2018.08.31-19.22.30:053][636]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.197
+[2018.08.31-19.26.42:272][967]LogEditorActor: Deleted Actor: PLAYER_PAWN_C
+[2018.08.31-19.26.42:295][967]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.08.31-19.26.43:268][ 67]LogEditorActor: Deleted Actor: PLAYER_PAWN_C
+[2018.08.31-19.26.43:288][ 67]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.08.31-19.26.49:837][841]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.31-19.26.49:855][841]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.26.49:855][841]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.31-19.26.49:855][841]PIE: New page: PIE session: TopDownExampleMap (Aug 31, 2018, 11:26:49 AM)
+[2018.08.31-19.26.49:855][841]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.31-19.26.49:875][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019681s)
+[2018.08.31-19.26.49:876][841]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.31-19.26.49:876][841]LogPlayLevel: PIE: World Init took: (0.000950s)
+[2018.08.31-19.26.49:876][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.020924s)
+[2018.08.31-19.26.49:901][841]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.31-19.26.49:905][841]LogInit: FAudioDevice initialized.
+[2018.08.31-19.26.49:943][841]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.31-19.26.49:945][841]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.31-15.26.49
+[2018.08.31-19.26.49:945][841]LogWorld: Bringing up level for play took: 0.001425
+[2018.08.31-19.26.49:951][841]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.562
+[2018.08.31-19.26.49:951][841]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.26.50:331][878]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1380.000 Y=1130.000 Z=21.606] for [AI_RUNNER_C]
+[2018.08.31-19.26.52:072][ 87]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.26.52:112][ 87]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.27.27:834][466]BlueprintLog: New page: Compile PLAYER_PAWN
+[2018.08.31-19.27.28:464][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2018.08.31-19.27.28:539][501]LogSavePackage: Save=65.81ms
+[2018.08.31-19.27.28:539][501]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWN0F991D41435D184B7CD74CAD9686089A.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2018.08.31-19.27.28:542][501]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset
+[2018.08.31-19.27.43:548][209]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.31-19.27.54:546][159]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.31-19.27.54:560][159]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.27.54:560][159]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.31-19.27.54:560][159]PIE: New page: PIE session: TopDownExampleMap (Aug 31, 2018, 11:27:54 AM)
+[2018.08.31-19.27.54:560][159]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.08.31-19.27.54:580][159]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020454s)
+[2018.08.31-19.27.54:581][159]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.31-19.27.54:581][159]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2018.08.31-19.27.54:581][159]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.021517s)
+[2018.08.31-19.27.54:632][159]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.31-19.27.54:636][159]LogInit: FAudioDevice initialized.
+[2018.08.31-19.27.54:670][159]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.31-19.27.54:671][159]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.08.31-15.27.54
+[2018.08.31-19.27.54:672][159]LogWorld: Bringing up level for play took: 0.001469
+[2018.08.31-19.27.54:678][159]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.168
+[2018.08.31-19.27.54:678][159]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.27.55:042][194]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1380.000 Y=1130.000 Z=20.555] for [AI_RUNNER_C]
+[2018.08.31-19.29.27:368][267]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.29.27:402][267]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.08.31-19.29.43:212][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.08.31-19.29.59:457][549]LogEditorActor: Deleted Actor: CAMERA_CLAMP_ACTOR_C
+[2018.08.31-19.29.59:477][549]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2018.08.31-19.30.33:182][659]BlueprintLog: New page: Compile CAMERA_CLAMP_ACTOR
+[2018.08.31-19.30.33:864][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/CAMERA_CLAMP_ACTOR" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/CAMERA_CLAMP_ACTOR.uasset" SILENT=true
+[2018.08.31-19.30.33:879][699]LogSavePackage: Save=6.89ms
+[2018.08.31-19.30.33:879][699]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/CAMERA_CLAMP_ACTORE0AB84894F817F7C286FEA88CB55B4B3.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/CAMERA_CLAMP_ACTOR.uasset'
+[2018.08.31-19.30.33:881][699]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/CAMERA_CLAMP_ACTOR.uasset
+[2018.08.31-19.30.56:132][636]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.31-19.30.57:103][748]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.31-19.30.57:418][784]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.31-19.31.32:504][528]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.31-19.32.53:285][359]Cmd: TRANSACTION UNDO
+[2018.08.31-19.32.53:285][359]LogEditorTransaction: Undo Move Actors
+[2018.08.31-19.33.16:476][ 47]Cmd: TRANSACTION UNDO
+[2018.08.31-19.33.16:476][ 47]LogEditorTransaction: Undo Move Actors
+[2018.08.31-19.33.42:562][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2018.08.31-19.34.21:068][976]LogSavePackage: Save=160.37ms
+[2018.08.31-19.34.21:068][976]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/TopDownExampleMap_Auto4455ABAE1442BC37931EDF081A7AE5C25.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto4.umap'
+[2018.08.31-19.34.21:070][976]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto4.umap
+[2018.08.31-19.34.21:072][976]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.212
+[2018.08.31-19.34.21:072][976]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.212
+[2018.08.31-19.35.55:558][ 41]LogEditorViewport: Clicking Background
+[2018.08.31-19.36.15:675][154]LogEditorViewport: Clicking Background
+[2018.08.31-19.37.30:246][940]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.08.31-19.44.21:133][710]LogSavePackage: Save=154.29ms
+[2018.08.31-19.44.21:133][710]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/TopDownExampleMap_Auto55DC2B8004262F0F9366968A7694B631C.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto5.umap'
+[2018.08.31-19.44.21:135][710]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto5.umap
+[2018.08.31-19.44.21:137][710]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.198
+[2018.08.31-19.44.21:137][710]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.198
+[2018.08.31-19.44.21:139][710]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/PLAYER_PAWN] ([1] browsable assets)...
+[2018.08.31-19.44.21:139][710]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/PLAYER_PAWN]
+[2018.08.31-19.44.21:214][710]LogSavePackage: Save=67.48ms
+[2018.08.31-19.44.21:214][710]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWN_Auto550E961594ED3FC1116F326AED1E0FF0B.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/Player/PLAYER_PAWN_Auto5.uasset'
+[2018.08.31-19.44.21:215][710]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/Player/PLAYER_PAWN_Auto5.uasset
+[2018.08.31-19.44.21:215][710]LogFileHelpers: Auto-saving content packages took 0.077
+[2018.08.31-19.48.42:248][299]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2018.08.31-19.54.21:239][858]LogSavePackage: Save=154.70ms
+[2018.08.31-19.54.21:239][858]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/TopDownExampleMap_Auto6DF9D4C87497A63D3DD7B36A6573A242B.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto6.umap'
+[2018.08.31-19.54.21:242][858]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto6.umap
+[2018.08.31-19.54.21:243][858]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.195
+[2018.08.31-19.54.21:243][858]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.195
+[2018.08.31-19.54.21:246][858]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/PLAYER_PAWN] ([1] browsable assets)...
+[2018.08.31-19.54.21:246][858]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/PLAYER_PAWN]
+[2018.08.31-19.54.21:326][858]LogSavePackage: Save=72.18ms
+[2018.08.31-19.54.21:326][858]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWN_Auto668882AFB4B805DDFAE5EC0A3A4C2C390.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/Player/PLAYER_PAWN_Auto6.uasset'
+[2018.08.31-19.54.21:327][858]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/Player/PLAYER_PAWN_Auto6.uasset
+[2018.08.31-19.54.21:327][858]LogFileHelpers: Auto-saving content packages took 0.082
+[2018.08.31-20.04.21:858][ 54]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.023
+[2018.08.31-20.04.21:860][ 54]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/PLAYER_PAWN] ([1] browsable assets)...
+[2018.08.31-20.04.21:860][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/PLAYER_PAWN]
+[2018.08.31-20.04.21:945][ 54]LogSavePackage: Save=75.84ms
+[2018.08.31-20.04.21:945][ 54]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWN_Auto7AB487BEE49C6B517D0CA05BE9C894C73.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/Player/PLAYER_PAWN_Auto7.uasset'
+[2018.08.31-20.04.21:946][ 54]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/Player/PLAYER_PAWN_Auto7.uasset
+[2018.08.31-20.04.21:946][ 54]LogFileHelpers: Auto-saving content packages took 0.087
+[2018.08.31-20.07.24:284][944]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2018.08.31-20.07.56:872][646]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2018.08.31-20.09.01:910][114]LogSelectionDetails: Warning: NavigateToFunctionSource:  Found symbols for [UKismetMathLibrary::BreakVector] - File [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\engine\classes\kismet\kismetmathlibrary.inl], Line [1680], Column [0]
+[2018.08.31-20.09.01:911][114]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.08.31-20.09.01:913][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:913][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:913][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:913][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:913][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:913][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:913][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:913][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:913][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:913][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:913][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:913][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:913][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:913][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:913][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:913][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:913][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:913][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:913][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:913][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:913][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:913][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:913][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:913][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:914][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:914][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:914][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:914][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:914][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:914][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:914][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:914][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:914][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:914][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:914][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:914][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:914][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:914][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:914][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:914][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:914][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:914][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:914][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:914][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:914][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:915][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:915][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:916][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:916][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:918][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:918][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:918][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:918][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:918][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:918][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:920][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:920][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.01:922][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.31-20.09.10:367][ 74]LogEditorTransaction: Undo Create Pin Link
+[2018.08.31-20.09.10:754][107]LogEditorTransaction: Undo Move Node
+[2018.08.31-20.09.11:156][145]LogEditorTransaction: Undo Move Node
+[2018.08.31-20.09.11:614][191]LogEditorTransaction: Undo Move Node
+[2018.08.31-20.12.05:271][298]BlueprintLog: New page: Compile PLAYER_PAWN
+[2018.08.31-20.12.06:113][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2018.08.31-20.12.06:200][357]LogSavePackage: Save=78.75ms
+[2018.08.31-20.12.06:200][357]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWN5D0E458E4744CE3B50B03C9A50428CE4.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2018.08.31-20.12.06:202][357]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset
+[2018.08.31-20.12.08:931][620]LogSavePackage: Save=155.01ms
+[2018.08.31-20.12.08:931][620]LogSavePackage: Moving '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/TopDownExampleMap5003D8424AAAD82CF1248D9ACA24AE28.tmp' to '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.08.31-20.12.08:934][620]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.08.31-20.12.08:954][620]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.271
+[2018.08.31-20.12.49:284][967]Cmd: CLOSE_SLATE_MAINFRAME
+[2018.08.31-20.12.49:343][967]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.08.31-20.12.49:404][967]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.08.31-20.12.49:620][968]Cmd: QUIT_EDITOR
+[2018.08.31-20.12.49:648][968]LogExit: Preparing to exit.
+[2018.08.31-20.12.50:269][968]LogDirectoryWatcher: A directory notification for 'C:/Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/' was aborted.
+[2018.08.31-20.12.50:298][968]LogExit: Editor shut down
+[2018.08.31-20.12.50:302][968]LogExit: Transaction tracking system shut down
+[2018.08.31-20.12.50:469][968]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.08.31-20.12.50:469][968]LogDirectoryWatcher: A directory notification for '../../../../../../Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/' was aborted.
+[2018.08.31-20.12.50:469][968]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.08.31-20.12.50:469][968]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.08.31-20.12.50:469][968]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.08.31-20.12.50:469][968]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.08.31-20.12.50:469][968]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.08.31-20.12.50:555][968]LogExit: Object subsystem successfully closed.
+[2018.08.31-20.12.50:574][968]LogD3D11RHI: Shutdown
+[2018.08.31-20.12.50:574][968]LogD3D11RHI: CleanupD3DDevice
+[2018.08.31-20.12.50:576][968]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.08.31-20.12.50:591][968]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (558)
+[2018.08.31-20.12.50:591][968]LogModuleManager: Shutting down and abandoning module DataTableEditor (556)
+[2018.08.31-20.12.50:591][968]LogModuleManager: Shutting down and abandoning module SequencerWidgets (554)
+[2018.08.31-20.12.50:591][968]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (552)
+[2018.08.31-20.12.50:591][968]LogModuleManager: Shutting down and abandoning module BlueprintGraph (550)
+[2018.08.31-20.12.50:591][968]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.08.31-20.12.50:591][968]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.08.31-20.12.50:591][968]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.08.31-20.12.50:591][968]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.08.31-20.12.50:592][968]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.08.31-20.12.50:592][968]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.08.31-20.12.50:592][968]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.08.31-20.12.50:592][968]LogDirectoryWatcher: A directory notification for 'C:/Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Collections/' was aborted.
+[2018.08.31-20.12.50:592][968]LogDirectoryWatcher: A directory notification for 'C:/Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Content/Developers/Student/Collections/' was aborted.
+[2018.08.31-20.12.50:592][968]LogDirectoryWatcher: A directory notification for 'C:/Users/student.AII/Documents/GitHub/Tower_Defense_Game/game/Saved/Collections/' was aborted.
+[2018.08.31-20.12.50:592][968]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.08.31-20.12.50:592][968]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.08.31-20.12.50:592][968]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.08.31-20.12.50:592][968]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.08.31-20.12.50:592][968]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.08.31-20.12.50:592][968]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.08.31-20.12.50:593][968]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.08.31-20.12.50:961][968]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.08.31-20.12.50:961][968]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.08.31-20.12.50:961][968]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.08.31-20.12.50:961][968]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.08.31-20.12.50:961][968]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.08.31-20.12.50:961][968]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.08.31-20.12.50:961][968]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.08.31-20.12.50:961][968]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.08.31-20.12.50:961][968]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.08.31-20.12.50:961][968]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.08.31-20.12.50:961][968]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.08.31-20.12.50:961][968]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.08.31-20.12.50:961][968]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.08.31-20.12.50:961][968]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.08.31-20.12.50:961][968]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.08.31-20.12.50:961][968]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.08.31-20.12.50:961][968]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.08.31-20.12.50:962][968]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.08.31-20.12.50:962][968]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.08.31-20.12.50:962][968]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.08.31-20.12.50:962][968]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.08.31-20.12.50:962][968]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.08.31-20.12.50:962][968]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.08.31-20.12.50:962][968]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.08.31-20.12.51:012][968]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.08.31-20.12.51:012][968]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.08.31-20.12.51:012][968]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.08.31-20.12.51:012][968]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.08.31-20.12.51:012][968]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.08.31-20.12.51:012][968]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.08.31-20.12.51:012][968]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.08.31-20.12.51:012][968]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.08.31-20.12.51:012][968]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.08.31-20.12.51:012][968]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.08.31-20.12.51:020][968]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.08.31-20.12.51:021][968]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.08.31-20.12.51:021][968]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.08.31-20.12.51:021][968]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.08.31-20.12.51:021][968]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.08.31-20.12.51:021][968]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.08.31-20.12.51:021][968]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.08.31-20.12.51:022][968]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.08.31-20.12.51:022][968]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.08.31-20.12.51:022][968]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.08.31-20.12.51:022][968]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.08.31-20.12.51:022][968]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.08.31-20.12.51:022][968]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.08.31-20.12.51:022][968]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.08.31-20.12.51:022][968]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.08.31-20.12.51:022][968]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.08.31-20.12.51:022][968]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.08.31-20.12.51:022][968]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.08.31-20.12.51:022][968]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.08.31-20.12.51:022][968]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.08.31-20.12.51:153][968]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.08.31-20.12.51:153][968]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.08.31-20.12.51:153][968]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.08.31-20.12.51:153][968]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.08.31-20.12.51:153][968]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.08.31-20.12.51:153][968]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.08.31-20.12.51:153][968]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.08.31-20.12.51:153][968]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.08.31-20.12.51:153][968]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.08.31-20.12.51:153][968]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.08.31-20.12.51:153][968]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.08.31-20.12.51:153][968]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.08.31-20.12.51:153][968]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.08.31-20.12.51:153][968]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.08.31-20.12.51:153][968]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.08.31-20.12.51:153][968]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.08.31-20.12.51:153][968]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.08.31-20.12.51:153][968]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.08.31-20.12.51:153][968]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.08.31-20.12.51:153][968]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.08.31-20.12.51:153][968]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.08.31-20.12.51:153][968]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.08.31-20.12.51:154][968]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.08.31-20.12.51:154][968]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.08.31-20.12.51:154][968]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.08.31-20.12.51:154][968]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.08.31-20.12.51:154][968]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.08.31-20.12.51:154][968]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.08.31-20.12.51:154][968]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.08.31-20.12.51:154][968]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.08.31-20.12.51:154][968]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.08.31-20.12.51:154][968]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.08.31-20.12.51:154][968]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.08.31-20.12.51:154][968]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.08.31-20.12.51:154][968]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.08.31-20.12.51:155][968]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.08.31-20.12.51:155][968]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.08.31-20.12.51:155][968]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.08.31-20.12.51:155][968]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.08.31-20.12.51:155][968]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.08.31-20.12.51:155][968]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.08.31-20.12.51:155][968]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.08.31-20.12.51:155][968]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.08.31-20.12.51:155][968]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.08.31-20.12.51:155][968]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.08.31-20.12.51:155][968]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.08.31-20.12.51:255][968]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.08.31-20.12.51:355][968]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.08.31-20.12.51:355][968]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.08.31-20.12.51:355][968]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.08.31-20.12.51:355][968]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.08.31-20.12.51:355][968]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.08.31-20.12.51:355][968]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.08.31-20.12.51:356][968]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.08.31-20.12.51:356][968]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.08.31-20.12.51:356][968]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.08.31-20.12.51:356][968]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.08.31-20.12.51:356][968]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.08.31-20.12.51:356][968]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.08.31-20.12.51:356][968]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.08.31-20.12.51:356][968]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.08.31-20.12.51:357][968]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.08.31-20.12.51:357][968]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.08.31-20.12.51:362][968]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.08.31-20.12.51:362][968]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.08.31-20.12.51:362][968]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.08.31-20.12.51:362][968]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.08.31-20.12.51:362][968]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.08.31-20.12.51:362][968]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.08.31-20.12.51:362][968]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.08.31-20.12.51:362][968]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.08.31-20.12.51:362][968]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.08.31-20.12.51:362][968]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.08.31-20.12.51:362][968]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.08.31-20.12.51:362][968]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.08.31-20.12.51:362][968]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.08.31-20.12.51:362][968]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.08.31-20.12.51:362][968]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.08.31-20.12.51:362][968]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.08.31-20.12.51:364][968]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.08.31-20.12.51:364][968]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.08.31-20.12.51:364][968]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.08.31-20.12.51:364][968]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.08.31-20.12.51:364][968]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.08.31-20.12.51:364][968]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.08.31-20.12.51:364][968]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.08.31-20.12.51:365][968]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.08.31-20.12.51:366][968]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.08.31-20.12.51:366][968]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.08.31-20.12.51:366][968]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.08.31-20.12.51:367][968]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.08.31-20.12.51:367][968]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.08.31-20.12.51:367][968]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.08.31-20.12.51:367][968]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.08.31-20.12.51:367][968]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.08.31-20.12.51:367][968]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.08.31-20.12.51:399][968]LogDerivedDataCache: Shutdown
+[2018.08.31-20.12.51:399][968]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.08.31-20.12.51:399][968]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.08.31-20.12.51:399][968]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.08.31-20.12.51:399][968]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.08.31-20.12.51:399][968]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.08.31-20.12.51:399][968]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.08.31-20.12.51:399][968]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.08.31-20.12.51:399][968]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.08.31-20.12.51:399][968]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.08.31-20.12.51:399][968]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.08.31-20.12.51:399][968]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.08.31-20.12.51:399][968]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.08.31-20.12.51:399][968]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.08.31-20.12.51:399][968]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.08.31-20.12.51:399][968]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.08.31-20.12.51:399][968]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.08.31-20.12.51:399][968]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.08.31-20.12.51:399][968]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.08.31-20.12.51:399][968]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.08.31-20.12.51:399][968]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.08.31-20.12.51:399][968]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.08.31-20.12.51:399][968]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.08.31-20.12.51:399][968]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.08.31-20.12.51:399][968]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.08.31-20.12.51:399][968]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.08.31-20.12.51:399][968]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.08.31-20.12.51:400][968]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.08.31-20.12.51:400][968]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.08.31-20.12.51:400][968]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.08.31-20.12.51:400][968]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.08.31-20.12.51:400][968]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.08.31-20.12.51:400][968]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.08.31-20.12.51:400][968]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.08.31-20.12.51:400][968]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.08.31-20.12.51:400][968]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.08.31-20.12.51:400][968]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.08.31-20.12.51:400][968]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.08.31-20.12.51:400][968]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.08.31-20.12.51:400][968]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.08.31-20.12.51:400][968]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.08.31-20.12.51:400][968]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.08.31-20.12.51:400][968]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.08.31-20.12.51:400][968]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.08.31-20.12.51:400][968]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.08.31-20.12.51:400][968]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.08.31-20.12.51:400][968]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.08.31-20.12.51:400][968]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.08.31-20.12.51:400][968]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.08.31-20.12.51:400][968]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.08.31-20.12.51:400][968]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.08.31-20.12.51:400][968]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.08.31-20.12.51:400][968]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.08.31-20.12.51:400][968]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.08.31-20.12.51:400][968]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2018.08.31-20.12.51:400][968]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0DFEA54F-4FAD-8773-7A13-DFBBD4FC45C2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=baf9a1574c7418c2c925a781c3b34e3f%7C47545c2e30d646d3a8d532d986037bc3%7Ccfba9cf8-1d2d-49df-a605-373394b8c8c7&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.08.31-20.12.51:400][968]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0DFEA54F-4FAD-8773-7A13-DFBBD4FC45C2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=baf9a1574c7418c2c925a781c3b34e3f%7C47545c2e30d646d3a8d532d986037bc3%7Ccfba9cf8-1d2d-49df-a605-373394b8c8c7&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.08.31-20.12.51:411][968]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.08.31-20.12.51:412][968]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.08.31-20.12.51:412][968]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.08.31-20.12.51:412][968]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.08.31-20.12.51:412][968]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.08.31-20.12.51:412][968]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.08.31-20.12.51:412][968]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.08.31-20.12.51:412][968]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.08.31-20.12.51:414][968]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.08.31-20.12.51:415][968]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.08.31-20.12.51:415][968]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.08.31-20.12.51:415][968]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.08.31-20.12.51:415][968]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.08.31-20.12.51:415][968]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.08.31-20.12.51:415][968]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.08.31-20.12.51:415][968]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.08.31-20.12.51:415][968]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.08.31-20.12.51:415][968]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.08.31-20.12.51:415][968]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.08.31-20.12.51:417][968]LogExit: Exiting.
+[2018.08.31-20.12.51:427][968]Log file closed, 08/31/18 16:12:51
