@@ -10959,3 +10959,492 @@ Script call stack:
 [2019.03.01-20.40.44:619][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls2)
 [2019.03.01-20.40.44:954][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls)
 [2019.03.01-20.40.58:070][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-20.43.18:637][451]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls16)
+[2019.03.01-20.44.07:877][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-20.44.08:234][356]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/level_1E2A6623948948D8C83611486C339EC84.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/level_1.umap'
+[2019.03.01-20.44.08:364][356]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/level_1_BuiltData3175AB4544293CE10F1849BD3F8BA063.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/level_1_BuiltData.uasset'
+[2019.03.01-20.44.32:665][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls15)
+[2019.03.01-20.44.33:422][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls16)
+[2019.03.01-20.44.34:430][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls15)
+[2019.03.01-20.44.34:955][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls13)
+[2019.03.01-20.44.35:321][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls14)
+[2019.03.01-20.44.35:896][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls15)
+[2019.03.01-20.44.36:339][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls16)
+[2019.03.01-20.44.37:480][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.01-20.44.38:269][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.01-20.46.13:779][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-20.47.11:476][186]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.01-20.47.24:323][521]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/Player_Money_Stats.Player_Money_Stats
+[2019.03.01-20.48.15:045][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls4)
+[2019.03.01-20.48.19:095][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-20.51.44:497][645]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Player/PLAYER_PAWN.PLAYER_PAWN
+[2019.03.01-20.52.50:004][962]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.01-20.54.08:329][ 21]BlueprintLog: New page: Compile PLAYER_PAWN
+[2019.03.01-20.54.09:179][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2019.03.01-20.54.09:257][ 86]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWN88D63D8C49599647156D6D9C4D12A1FD.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2019.03.01-20.54.37:301][124]BlueprintLog: New page: Compile PLAYER_PAWN
+[2019.03.01-20.54.38:662][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2019.03.01-20.54.38:736][250]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWN6E4C97BB4FA6BF2CD0DCDEB971493355.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2019.03.01-20.54.49:183][678]BlueprintLog: New page: Compile PLAYER_PAWN
+[2019.03.01-20.54.49:605][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2019.03.01-20.54.49:682][692]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWN1851014B4361C5428DD3CAAD359B98D0.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2019.03.01-20.55.10:911][953]BlueprintLog: New page: Compile Player_Money_Stats
+[2019.03.01-20.55.11:344][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Player_Money_Stats" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/UI/Player_Money_Stats.uasset" SILENT=true
+[2019.03.01-20.55.11:381][993]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/Player_Money_StatsA783BEE74E91F00DA82357B43067E403.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/UI/Player_Money_Stats.uasset'
+[2019.03.01-20.55.16:299][545]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/level_1_Auto55691E3B642E8EDF24F6F48BC8F40EE3B.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/TopDownBP/Maps/level_1_Auto5.umap'
+[2019.03.01-20.55.16:303][545]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/level_1' took 0.216
+[2019.03.01-20.55.16:303][545]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.216
+[2019.03.01-20.55.28:133][428]Cmd: TRANSACTION UNDO
+[2019.03.01-20.55.28:133][428]LogEditorTransaction: Undo Edit Money
+[2019.03.01-20.55.50:786][105]Cmd: TRANSACTION UNDO
+[2019.03.01-20.55.50:786][105]LogEditorTransaction: Undo Edit Money
+[2019.03.01-20.55.54:978][597]Cmd: TRANSACTION REDO
+[2019.03.01-20.55.54:978][597]LogEditorTransaction: Redo Edit Money
+[2019.03.01-20.55.56:229][740]Cmd: TRANSACTION REDO
+[2019.03.01-20.55.56:229][740]LogEditorTransaction: Redo Edit Money
+[2019.03.01-20.55.58:752][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2019.03.01-20.55.58:824][ 32]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWN9800F141408125CBFF83A099B0CB71DC.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2019.03.01-20.56.03:079][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Player_Money_Stats" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/UI/Player_Money_Stats.uasset" SILENT=true
+[2019.03.01-20.56.03:114][539]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/Player_Money_StatsB666A39345E7BF40CBCF779EEF6FF02D.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/UI/Player_Money_Stats.uasset'
+[2019.03.01-20.56.08:018][ 88]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/level_160B46C8841D00D49BD59EF95110892B7.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/level_1.umap'
+[2019.03.01-20.56.08:152][ 88]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/level_1_BuiltData34D015454D3B07D527543FB8BAFDF1C0.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/level_1_BuiltData.uasset'
+[2019.03.01-20.56.27:893][415]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode
+[2019.03.01-20.56.31:535][787]LogSlate: Window 'TopDownGameMode' being destroyed
+[2019.03.01-20.56.50:581][785]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Tower_Defense_Game.Tower_Defense_Game
+[2019.03.01-20.56.58:333][678]BlueprintLog: New page: Compile Tower_Defense_Game
+[2019.03.01-20.56.59:079][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tower_Defense_Game" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Tower_Defense_Game.uasset" SILENT=true
+[2019.03.01-20.56.59:107][744]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/Tower_Defense_Game793978394225F49072457B93E79C3ECA.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Tower_Defense_Game.uasset'
+[2019.03.01-20.57.06:355][879]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/level_1CF2EFD384F621D0C1CC90AA6F10D024E.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/level_1.umap'
+[2019.03.01-20.57.06:484][879]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/level_1_BuiltDataC9C99243473E48FAB413008D15C45409.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/level_1_BuiltData.uasset'
+[2019.03.01-20.57.21:206][349]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.01-20.57.21:226][349]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-20.57.21:226][349]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.01-20.57.21:227][349]PIE: New page: PIE session: level_1 (Mar 1, 2019, 10:57:21 AM)
+[2019.03.01-20.57.21:227][349]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_level_1
+[2019.03.01-20.57.21:239][349]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012021s)
+[2019.03.01-20.57.21:239][349]LogAIModule: Creating AISystem for world level_1
+[2019.03.01-20.57.21:240][349]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2019.03.01-20.57.21:240][349]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/level_1.level_1 to /Game/TopDownBP/Maps/UEDPIE_0_level_1.level_1 (0.012975s)
+[2019.03.01-20.57.21:292][349]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.01-20.57.21:305][349]LogInit: FAudioDevice initialized.
+[2019.03.01-20.57.21:305][349]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.01-20.57.21:332][349]LogLoad: Game class is 'Tower_Defense_Game_C'
+[2019.03.01-20.57.21:334][349]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_level_1.level_1 up for play (max tick rate 0) at 2019.03.01-15.57.21
+[2019.03.01-20.57.21:334][349]LogWorld: Bringing up level for play took: 0.001267
+[2019.03.01-20.57.21:349][349]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_level_1 -0.124
+[2019.03.01-20.57.21:349][349]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-20.57.21:375][349]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_0
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:376][349]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_1
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:378][349]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_0
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:379][349]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_1
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:398][350]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_1
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:399][350]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_0
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:399][350]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_1
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:401][350]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_0
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:401][350]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_1
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:406][351]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_1
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:407][351]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_0
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:407][351]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_1
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:410][351]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_0
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:410][351]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_1
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:415][352]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_1
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:416][352]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_0
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:416][352]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_1
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:419][352]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_0
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:419][352]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_1
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:423][353]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_1
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:424][353]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_0
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:424][353]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_1
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:426][353]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_0
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:426][353]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_1
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:431][354]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_1
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:432][354]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_0
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:432][354]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_1
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:433][354]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_0
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:433][354]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_1
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:440][355]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_0
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:442][355]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_0
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:448][356]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_0
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:450][356]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_0
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.21:457][357]LogScript: Warning: Accessed None trying to read property Player Reference
+	Player_Money_Stats_C /Engine/Transient.UnrealEdEngine_0:GameInstance_87.Player_Money_Stats_C_0
+	Function /Game/UI/Player_Money_Stats.Player_Money_Stats_C:Money_Bindings:003D
+[2019.03.01-20.57.25:447][836]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-20.57.25:447][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-20.57.25:487][836]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.01-20.57.25:488][836]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-20.57.25:517][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-20.57.25:559][838]LogPlayLevel: Display: Destroying online subsystem :Context_144
+[2019.03.01-20.57.37:020][187]LogSlate: Took 0.018986 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.03.01-20.57.57:387][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Player_Money_Stats" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/UI/Player_Money_Stats.uasset" SILENT=true
+[2019.03.01-20.57.57:422][602]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/Player_Money_Stats9A7C371B438139C3772C3CB909143B48.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/UI/Player_Money_Stats.uasset'
+[2019.03.01-20.58.15:257][127]BlueprintLog: New page: Compile Tower_Defense_Game
+[2019.03.01-20.58.20:477][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2019.03.01-20.58.20:554][694]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWNE04C84944FA0D12ADA6688828E3E5E30.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2019.03.01-20.58.23:757][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tower_Defense_Game" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Tower_Defense_Game.uasset" SILENT=true
+[2019.03.01-20.58.23:783][ 72]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/Tower_Defense_GameF92DA6754CFF0C2F974B0596A9FCB248.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Tower_Defense_Game.uasset'
+[2019.03.01-20.58.25:929][275]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.01-20.58.25:955][275]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-20.58.25:955][275]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.01-20.58.25:956][275]PIE: New page: PIE session: level_1 (Mar 1, 2019, 10:58:25 AM)
+[2019.03.01-20.58.25:956][275]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_level_1
+[2019.03.01-20.58.25:967][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011328s)
+[2019.03.01-20.58.25:968][275]LogAIModule: Creating AISystem for world level_1
+[2019.03.01-20.58.25:968][275]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2019.03.01-20.58.25:968][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/level_1.level_1 to /Game/TopDownBP/Maps/UEDPIE_0_level_1.level_1 (0.012244s)
+[2019.03.01-20.58.26:012][275]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.01-20.58.26:024][275]LogInit: FAudioDevice initialized.
+[2019.03.01-20.58.26:054][275]LogLoad: Game class is 'Tower_Defense_Game_C'
+[2019.03.01-20.58.26:056][275]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_level_1.level_1 up for play (max tick rate 0) at 2019.03.01-15.58.26
+[2019.03.01-20.58.26:056][275]LogWorld: Bringing up level for play took: 0.001164
+[2019.03.01-20.58.26:070][275]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_level_1 0.598
+[2019.03.01-20.58.26:070][275]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-20.58.28:145][521]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-20.58.28:145][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-20.58.28:193][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.01-20.58.28:193][521]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-20.58.28:224][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-20.58.28:267][523]LogPlayLevel: Display: Destroying online subsystem :Context_145
+[2019.03.01-20.58.59:512][207]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.01-20.58.59:534][207]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-20.58.59:534][207]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.01-20.58.59:534][207]PIE: New page: PIE session: level_1 (Mar 1, 2019, 10:58:59 AM)
+[2019.03.01-20.58.59:534][207]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_level_1
+[2019.03.01-20.58.59:545][207]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010828s)
+[2019.03.01-20.58.59:545][207]LogAIModule: Creating AISystem for world level_1
+[2019.03.01-20.58.59:546][207]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2019.03.01-20.58.59:546][207]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/level_1.level_1 to /Game/TopDownBP/Maps/UEDPIE_0_level_1.level_1 (0.011722s)
+[2019.03.01-20.58.59:589][207]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.01-20.58.59:601][207]LogInit: FAudioDevice initialized.
+[2019.03.01-20.58.59:636][207]LogLoad: Game class is 'Tower_Defense_Game_C'
+[2019.03.01-20.58.59:637][207]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_level_1.level_1 up for play (max tick rate 0) at 2019.03.01-15.58.59
+[2019.03.01-20.58.59:637][207]LogWorld: Bringing up level for play took: 0.001203
+[2019.03.01-20.58.59:651][207]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_level_1 0.179
+[2019.03.01-20.58.59:651][207]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-20.59.01:224][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-20.59.01:325][405]LogBlueprintUserMessages: [TOWER_SELECTION_SHEAT_C_0] ankh
+[2019.03.01-20.59.03:738][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-20.59.05:655][924]LogBlueprintUserMessages: [TOWER_SELECTION_SHEAT_C_0] Prime_Hill_Tower
+[2019.03.01-20.59.06:931][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-20.59.07:023][ 88]LogBlueprintUserMessages: [TOWER_SELECTION_SHEAT_C_0] Tower_2
+[2019.03.01-20.59.08:589][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-20.59.08:698][289]LogBlueprintUserMessages: [TOWER_SELECTION_SHEAT_C_0] Basic_Tower
+[2019.03.01-20.59.17:475][342]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-20.59.17:476][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-20.59.17:525][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.01-20.59.17:526][342]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-20.59.17:561][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-20.59.17:577][343]LogPlayLevel: Display: Destroying online subsystem :Context_146
+[2019.03.01-20.59.18:957][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-20.59.35:721][305]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.01-21.00.03:489][624]BlueprintLog: New page: Compile Tower_Defense_Game
+[2019.03.01-21.00.04:105][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tower_Defense_Game" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Tower_Defense_Game.uasset" SILENT=true
+[2019.03.01-21.00.04:137][671]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/Tower_Defense_GameAB374C0046903F3B11AF548452C30A9F.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Tower_Defense_Game.uasset'
+[2019.03.01-21.01.34:987][662]BlueprintLog: New page: Compile Player_Money_Stats
+[2019.03.01-21.01.36:328][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Player_Money_Stats" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/UI/Player_Money_Stats.uasset" SILENT=true
+[2019.03.01-21.01.36:365][803]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/Player_Money_Stats6B9ED82042E788987DC0578A5409853A.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/UI/Player_Money_Stats.uasset'
+[2019.03.01-21.03.39:464][690]BlueprintLog: New page: Compile Player_Money_Stats
+[2019.03.01-21.03.40:284][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Player_Money_Stats" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/UI/Player_Money_Stats.uasset" SILENT=true
+[2019.03.01-21.03.40:322][767]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/Player_Money_Stats240259B24CFEA5C0AC2DA598CC92BCF1.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/UI/Player_Money_Stats.uasset'
+[2019.03.01-21.03.41:956][954]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.01-21.03.41:982][954]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-21.03.41:982][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.01-21.03.41:983][954]PIE: New page: PIE session: level_1 (Mar 1, 2019, 11:03:41 AM)
+[2019.03.01-21.03.41:983][954]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_level_1
+[2019.03.01-21.03.41:995][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012638s)
+[2019.03.01-21.03.41:996][954]LogAIModule: Creating AISystem for world level_1
+[2019.03.01-21.03.41:996][954]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2019.03.01-21.03.41:996][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/level_1.level_1 to /Game/TopDownBP/Maps/UEDPIE_0_level_1.level_1 (0.013587s)
+[2019.03.01-21.03.42:044][954]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.01-21.03.42:057][954]LogInit: FAudioDevice initialized.
+[2019.03.01-21.03.42:087][954]LogLoad: Game class is 'Tower_Defense_Game_C'
+[2019.03.01-21.03.42:088][954]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_level_1.level_1 up for play (max tick rate 0) at 2019.03.01-16.03.42
+[2019.03.01-21.03.42:089][954]LogWorld: Bringing up level for play took: 0.001245
+[2019.03.01-21.03.42:102][954]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_level_1 0.632
+[2019.03.01-21.03.42:102][954]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-21.03.43:232][ 86]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-21.03.43:232][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-21.03.43:271][ 86]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.01-21.03.43:272][ 86]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-21.03.43:304][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-21.03.43:350][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_147
+[2019.03.01-21.03.49:318][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Player_Money_Stats" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/UI/Player_Money_Stats.uasset" SILENT=true
+[2019.03.01-21.03.49:353][798]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/Player_Money_Stats955572044E3BA51993A1029D0855764B.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/UI/Player_Money_Stats.uasset'
+[2019.03.01-21.04.37:009][777]BlueprintLog: New page: Compile Player_Money_Stats
+[2019.03.01-21.04.37:623][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Player_Money_Stats" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/UI/Player_Money_Stats.uasset" SILENT=true
+[2019.03.01-21.04.37:659][838]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/Player_Money_StatsB58A2BEA418C898A034C9C8BF5AF77B3.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/UI/Player_Money_Stats.uasset'
+[2019.03.01-21.05.19:243][ 77]BlueprintLog: New page: Compile Player_Money_Stats
+[2019.03.01-21.05.19:654][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Player_Money_Stats" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/UI/Player_Money_Stats.uasset" SILENT=true
+[2019.03.01-21.05.19:699][117]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/Player_Money_StatsB6B408F74B524F5CDBD74B98D3211336.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/UI/Player_Money_Stats.uasset'
+[2019.03.01-21.05.20:775][242]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.01-21.05.20:796][242]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-21.05.20:796][242]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.01-21.05.20:796][242]PIE: New page: PIE session: level_1 (Mar 1, 2019, 11:05:20 AM)
+[2019.03.01-21.05.20:796][242]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_level_1
+[2019.03.01-21.05.20:808][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011445s)
+[2019.03.01-21.05.20:809][242]LogAIModule: Creating AISystem for world level_1
+[2019.03.01-21.05.20:809][242]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2019.03.01-21.05.20:809][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/level_1.level_1 to /Game/TopDownBP/Maps/UEDPIE_0_level_1.level_1 (0.012412s)
+[2019.03.01-21.05.20:858][242]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.01-21.05.20:872][242]LogInit: FAudioDevice initialized.
+[2019.03.01-21.05.20:903][242]LogLoad: Game class is 'Tower_Defense_Game_C'
+[2019.03.01-21.05.20:905][242]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_level_1.level_1 up for play (max tick rate 0) at 2019.03.01-16.05.20
+[2019.03.01-21.05.20:905][242]LogWorld: Bringing up level for play took: 0.001485
+[2019.03.01-21.05.20:919][242]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_level_1 -0.551
+[2019.03.01-21.05.20:919][242]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-21.05.23:835][588]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-21.05.23:835][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-21.05.23:870][588]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.01-21.05.23:870][588]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-21.05.23:903][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-21.05.23:954][590]LogPlayLevel: Display: Destroying online subsystem :Context_148
+[2019.03.01-21.05.28:746][165]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.01-21.05.28:767][165]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-21.05.28:767][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.01-21.05.28:767][165]PIE: New page: PIE session: level_1 (Mar 1, 2019, 11:05:28 AM)
+[2019.03.01-21.05.28:767][165]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_level_1
+[2019.03.01-21.05.28:778][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010621s)
+[2019.03.01-21.05.28:778][165]LogAIModule: Creating AISystem for world level_1
+[2019.03.01-21.05.28:779][165]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2019.03.01-21.05.28:779][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/level_1.level_1 to /Game/TopDownBP/Maps/UEDPIE_0_level_1.level_1 (0.011520s)
+[2019.03.01-21.05.28:826][165]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.01-21.05.28:837][165]LogInit: FAudioDevice initialized.
+[2019.03.01-21.05.28:865][165]LogLoad: Game class is 'Tower_Defense_Game_C'
+[2019.03.01-21.05.28:866][165]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_level_1.level_1 up for play (max tick rate 0) at 2019.03.01-16.05.28
+[2019.03.01-21.05.28:866][165]LogWorld: Bringing up level for play took: 0.001171
+[2019.03.01-21.05.28:881][165]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_level_1 -0.59
+[2019.03.01-21.05.28:881][165]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-21.05.30:227][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-21.05.59:348][814]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-21.05.59:349][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-21.05.59:386][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.01-21.05.59:387][814]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-21.05.59:420][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-21.05.59:466][816]LogPlayLevel: Display: Destroying online subsystem :Context_149
+[2019.03.01-21.06.01:075][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-21.06.01:436][ 25]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/level_12680F2F742B7BF84DFDA59A7DE2C990B.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/level_1.umap'
+[2019.03.01-21.06.01:569][ 25]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/level_1_BuiltDataF415FDAC4AEA02DF27D728821AFCBA09.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/level_1_BuiltData.uasset'
+[2019.03.01-21.07.01:260][ 39]BlueprintLog: New page: Compile PLAYER_PAWN
+[2019.03.01-21.07.02:164][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2019.03.01-21.07.02:241][111]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWNE29151AE4BC3736B9318829483079669.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2019.03.01-21.09.35:117][ 66]BlueprintLog: New page: Compile PLAYER_PAWN
+[2019.03.01-21.09.35:715][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2019.03.01-21.09.35:792][101]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWN077EC19640D9902F470AB9A71BE8E9F7.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2019.03.01-21.09.38:787][454]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.01-21.09.38:823][454]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-21.09.38:823][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.01-21.09.38:823][454]PIE: New page: PIE session: level_1 (Mar 1, 2019, 11:09:38 AM)
+[2019.03.01-21.09.38:823][454]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_level_1
+[2019.03.01-21.09.38:835][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011937s)
+[2019.03.01-21.09.38:836][454]LogAIModule: Creating AISystem for world level_1
+[2019.03.01-21.09.38:836][454]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2019.03.01-21.09.38:836][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/level_1.level_1 to /Game/TopDownBP/Maps/UEDPIE_0_level_1.level_1 (0.012842s)
+[2019.03.01-21.09.38:885][454]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.01-21.09.38:897][454]LogInit: FAudioDevice initialized.
+[2019.03.01-21.09.38:925][454]LogLoad: Game class is 'Tower_Defense_Game_C'
+[2019.03.01-21.09.38:927][454]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_level_1.level_1 up for play (max tick rate 0) at 2019.03.01-16.09.38
+[2019.03.01-21.09.38:927][454]LogWorld: Bringing up level for play took: 0.001176
+[2019.03.01-21.09.38:941][454]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_level_1 -0.529
+[2019.03.01-21.09.38:941][454]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-21.09.45:322][966]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-21.09.45:322][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-21.09.45:368][966]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.01-21.09.45:369][966]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-21.09.45:402][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-21.09.45:478][967]LogPlayLevel: Display: Destroying online subsystem :Context_150
+[2019.03.01-21.09.54:132][  1]BlueprintLog: New page: Compile Player_Money_Stats
+[2019.03.01-21.09.54:583][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Player_Money_Stats" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/UI/Player_Money_Stats.uasset" SILENT=true
+[2019.03.01-21.09.54:623][ 43]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/Player_Money_Stats5F6981014F68858C1FF8D1A36B2359CC.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/UI/Player_Money_Stats.uasset'
+[2019.03.01-21.09.55:886][191]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.01-21.09.55:908][191]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-21.09.55:908][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.01-21.09.55:908][191]PIE: New page: PIE session: level_1 (Mar 1, 2019, 11:09:55 AM)
+[2019.03.01-21.09.55:908][191]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_level_1
+[2019.03.01-21.09.55:919][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010986s)
+[2019.03.01-21.09.55:920][191]LogAIModule: Creating AISystem for world level_1
+[2019.03.01-21.09.55:920][191]LogPlayLevel: PIE: World Init took: (0.000716s)
+[2019.03.01-21.09.55:920][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/level_1.level_1 to /Game/TopDownBP/Maps/UEDPIE_0_level_1.level_1 (0.011854s)
+[2019.03.01-21.09.55:967][191]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.01-21.09.55:979][191]LogInit: FAudioDevice initialized.
+[2019.03.01-21.09.56:011][191]LogLoad: Game class is 'Tower_Defense_Game_C'
+[2019.03.01-21.09.56:013][191]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_level_1.level_1 up for play (max tick rate 0) at 2019.03.01-16.09.56
+[2019.03.01-21.09.56:013][191]LogWorld: Bringing up level for play took: 0.001273
+[2019.03.01-21.09.56:027][191]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_level_1 0.557
+[2019.03.01-21.09.56:027][191]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-21.10.06:122][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-21.10.06:413][741]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/level_10CBB5B1D46A47BAE1CD3B582AEB4C51E.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/level_1.umap'
+[2019.03.01-21.10.06:542][741]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/level_1_BuiltData645B6522444BDC44A6DBCA981F0F1D2C.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/level_1_BuiltData.uasset'
+[2019.03.01-21.10.23:116][729]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-21.10.23:116][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-21.10.23:155][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.01-21.10.23:156][729]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-21.10.23:192][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-21.10.23:234][731]LogPlayLevel: Display: Destroying online subsystem :Context_151
+[2019.03.01-21.10.30:986][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-21.13.36:349][245]LogAssetEditorManager: Opening Asset editor for DataTable /Game/AI/RUNNER_DATA_TABLE.RUNNER_DATA_TABLE
+[2019.03.01-21.15.13:516][735]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/SPAWNER.SPAWNER
+[2019.03.01-21.15.26:793][684]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/AI_RUNNER.AI_RUNNER
+[2019.03.01-21.16.44:294][893]LogEditorTransaction: Undo Move Node
+[2019.03.01-21.17.47:923][322]BlueprintLog: New page: Compile SPAWNER
+[2019.03.01-21.17.48:509][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/SPAWNER" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/AI/SPAWNER.uasset" SILENT=true
+[2019.03.01-21.17.48:579][357]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/SPAWNERD71398D64FAAAFAF1737EBBF694503DE.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/AI/SPAWNER.uasset'
+[2019.03.01-21.20.29:446][877]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/level_1_Auto69627B7804ABD10F412DF5982A96E79E3.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/TopDownBP/Maps/level_1_Auto6.umap'
+[2019.03.01-21.20.29:450][877]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/level_1' took 0.235
+[2019.03.01-21.20.29:450][877]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.235
+[2019.03.01-21.20.29:452][877]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/SPAWNER] ([1] browsable assets)...
+[2019.03.01-21.20.29:452][877]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/SPAWNER]
+[2019.03.01-21.20.29:452][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/SPAWNER" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/AI/SPAWNER_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2019.03.01-21.20.29:526][877]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/SPAWNER_Auto6ABB2325A4578BA03B106EB9D5F02FF73.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/AI/SPAWNER_Auto6.uasset'
+[2019.03.01-21.20.29:529][877]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/AI_RUNNER] ([1] browsable assets)...
+[2019.03.01-21.20.29:546][877]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/AI_RUNNER.AI_RUNNER]
+[2019.03.01-21.20.29:546][877]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/AI_RUNNER]
+[2019.03.01-21.20.29:588][877]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/AI_RUNNER_Auto69E1AA38646F5990A3ABB5E84354F8C61.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/Autosaves/Game/AI/AI_RUNNER_Auto6.uasset'
+[2019.03.01-21.20.29:591][877]LogFileHelpers: Auto-saving content packages took 0.139
+[2019.03.01-21.21.36:040][741]BlueprintLog: New page: Compile SPAWNER
+[2019.03.01-21.21.36:839][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/SPAWNER" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/AI/SPAWNER.uasset" SILENT=true
+[2019.03.01-21.21.36:915][803]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/SPAWNERAE6E31144AF81207231059B5163ED5A4.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/AI/SPAWNER.uasset'
+[2019.03.01-21.23.31:351][143]BlueprintLog: New page: Compile PLAYER_PAWN
+[2019.03.01-21.24.28:196][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2019.03.01-21.24.28:276][599]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWNBF6E6EFC45C2B2A106EA4BAF6353F701.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2019.03.01-21.24.34:072][171]BlueprintLog: New page: Compile PLAYER_PAWN
+[2019.03.01-21.25.10:716][491]BlueprintLog: New page: Compile AI_RUNNER
+[2019.03.01-21.25.11:497][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_RUNNER" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/AI/AI_RUNNER.uasset" SILENT=true
+[2019.03.01-21.25.11:539][558]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/AI_RUNNERC8DA0DCA4A911F3BA486419598B8AC40.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/AI/AI_RUNNER.uasset'
+[2019.03.01-21.25.43:715][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_RUNNER" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/AI/AI_RUNNER.uasset" SILENT=true
+[2019.03.01-21.25.43:750][923]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/AI_RUNNERC3F5A7264F92D393EF5FCB83A996B16A.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/AI/AI_RUNNER.uasset'
+[2019.03.01-21.25.45:298][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2019.03.01-21.25.45:375][106]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWNBA8AE15842F6D5407D6837A0268F7505.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2019.03.01-21.25.46:407][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tower_Defense_Game" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Tower_Defense_Game.uasset" SILENT=true
+[2019.03.01-21.25.46:438][228]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/Tower_Defense_Game05C207DD45F72BBDA1EC48AD112B55B4.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Tower_Defense_Game.uasset'
+[2019.03.01-21.26.09:543][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2019.03.01-21.26.09:624][460]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWN815724994390F6D7A844199CA7D6C0DA.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2019.03.01-21.26.12:414][742]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/level_1C5CA91894156CB7BA5894FBFFD556940.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/level_1.umap'
+[2019.03.01-21.26.12:443][742]LogFileHelpers: Saving map 'level_1' took 0.408
+[2019.03.01-21.26.16:017][164]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.01-21.26.16:063][164]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-21.26.16:063][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.01-21.26.16:063][164]PIE: New page: PIE session: level_1 (Mar 1, 2019, 11:26:16 AM)
+[2019.03.01-21.26.16:063][164]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_level_1
+[2019.03.01-21.26.16:077][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013799s)
+[2019.03.01-21.26.16:078][164]LogAIModule: Creating AISystem for world level_1
+[2019.03.01-21.26.16:078][164]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2019.03.01-21.26.16:078][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/level_1.level_1 to /Game/TopDownBP/Maps/UEDPIE_0_level_1.level_1 (0.014867s)
+[2019.03.01-21.26.16:127][164]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.01-21.26.16:140][164]LogInit: FAudioDevice initialized.
+[2019.03.01-21.26.16:172][164]LogLoad: Game class is 'Tower_Defense_Game_C'
+[2019.03.01-21.26.16:174][164]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_level_1.level_1 up for play (max tick rate 0) at 2019.03.01-16.26.16
+[2019.03.01-21.26.16:174][164]LogWorld: Bringing up level for play took: 0.001386
+[2019.03.01-21.26.16:188][164]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_level_1 0.722
+[2019.03.01-21.26.16:188][164]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-21.26.17:833][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-21.26.17:942][371]LogBlueprintUserMessages: [TOWER_SELECTION_SHEAT_C_0] ankh
+[2019.03.01-21.26.19:258][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-21.26.29:287][729]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-21.26.29:287][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-21.26.29:326][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.01-21.26.29:326][729]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-21.26.29:361][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-21.26.29:386][731]LogPlayLevel: Display: Destroying online subsystem :Context_154
+[2019.03.01-21.27.22:186][623]BlueprintLog: New page: Compile PLAYER_PAWN
+[2019.03.01-21.27.22:662][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2019.03.01-21.27.22:748][638]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWNEB9A1AB1458CC27192DDA4A229C37238.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2019.03.01-21.27.24:321][820]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.01-21.27.24:359][820]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-21.27.24:359][820]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.01-21.27.24:359][820]PIE: New page: PIE session: level_1 (Mar 1, 2019, 11:27:24 AM)
+[2019.03.01-21.27.24:359][820]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_level_1
+[2019.03.01-21.27.24:371][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012055s)
+[2019.03.01-21.27.24:372][820]LogAIModule: Creating AISystem for world level_1
+[2019.03.01-21.27.24:372][820]LogPlayLevel: PIE: World Init took: (0.000747s)
+[2019.03.01-21.27.24:372][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/level_1.level_1 to /Game/TopDownBP/Maps/UEDPIE_0_level_1.level_1 (0.013001s)
+[2019.03.01-21.27.24:421][820]LogInit: XAudio2 using 'HP Z24n (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.01-21.27.24:433][820]LogInit: FAudioDevice initialized.
+[2019.03.01-21.27.24:467][820]LogLoad: Game class is 'Tower_Defense_Game_C'
+[2019.03.01-21.27.24:468][820]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_level_1.level_1 up for play (max tick rate 0) at 2019.03.01-16.27.24
+[2019.03.01-21.27.24:469][820]LogWorld: Bringing up level for play took: 0.001153
+[2019.03.01-21.27.24:483][820]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_level_1 1.017
+[2019.03.01-21.27.24:483][820]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-21.27.25:782][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-21.27.27:115][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-21.27.27:232][147]LogBlueprintUserMessages: [TOWER_SELECTION_SHEAT_C_0] Basic_Tower
+[2019.03.01-21.27.28:532][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-21.27.28:641][316]LogBlueprintUserMessages: [TOWER_SELECTION_SHEAT_C_0] ankh
+[2019.03.01-21.27.35:726][166]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-21.27.35:726][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-21.27.35:762][166]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.01-21.27.35:762][166]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1' with GeneratedClass '/Game/TopDownBP/Maps/level_1.level_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/level_1.level_1:PersistentLevel.level_1'
+[2019.03.01-21.27.35:798][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-21.27.35:846][168]LogPlayLevel: Display: Destroying online subsystem :Context_155
+[2019.03.01-21.27.36:622][261]Cmd: TRANSACTION UNDO
+[2019.03.01-21.27.36:622][261]LogEditorTransaction: Undo Edit Money
+[2019.03.01-21.27.38:145][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-21.27.42:830][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PLAYER_PAWN" FILE="../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset" SILENT=true
+[2019.03.01-21.27.42:911][991]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/PLAYER_PAWNB76A35C04671901661060B8948294C14.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/Player/PLAYER_PAWN.uasset'
+[2019.03.01-21.27.54:775][352]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Saved/level_1D60743B7488880A0CFCA11A4C1A4F599.tmp' to '../../../../../../Users/student/Documents/GitHub/Tower_Defense_Game/game/Content/TopDownBP/Maps/level_1.umap'
+[2019.03.01-21.27.54:804][352]LogFileHelpers: Saving map 'level_1' took 0.389
